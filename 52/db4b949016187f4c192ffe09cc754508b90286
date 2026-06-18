@@ -1,0 +1,19 @@
+upcoming-release-notes/8266.md
+  s_57a134e2b9460d::t_2cf9d5c6b539fe 1-6
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.8",
+  "base_commit_sha": "52db4b949016187f4c192ffe09cc754508b90286",
+  "prompts": {},
+  "sessions": {
+    "s_57a134e2b9460d": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "812cf04b-ae9b-492f-92c7-f6875ea2c242",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "zannis <zkalampoukis@gmail.com>"
+    }
+  }
+}

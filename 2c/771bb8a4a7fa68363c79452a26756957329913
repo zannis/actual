@@ -1,0 +1,23 @@
+packages/loot-core/src/server/schedules/app.test.ts
+  s_57a134e2b9460d::t_cedaea0b145c2e 813-839,844-845,850-873
+  s_57a134e2b9460d::t_cd9479a6ce3d60 840-843,846-849
+packages/loot-core/src/server/schedules/app.ts
+  s_57a134e2b9460d::t_d4e2fe2f1c3aea 397-406
+  s_57a134e2b9460d::t_63669196c76f34 122-153
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.8",
+  "base_commit_sha": "2c771bb8a4a7fa68363c79452a26756957329913",
+  "prompts": {},
+  "sessions": {
+    "s_57a134e2b9460d": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "812cf04b-ae9b-492f-92c7-f6875ea2c242",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "zannis <zkalampoukis@gmail.com>"
+    }
+  }
+}

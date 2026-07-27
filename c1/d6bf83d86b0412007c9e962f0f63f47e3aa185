@@ -1,0 +1,19 @@
+packages/loot-core/src/types/models/dashboard.ts
+  s_752b020f7e1f51::t_efe52ac0110d5c 192-197,203-204
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.16",
+  "base_commit_sha": "c1d6bf83d86b0412007c9e962f0f63f47e3aa185",
+  "prompts": {},
+  "sessions": {
+    "s_752b020f7e1f51": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "00614005-c1f3-4f3a-a10d-cc35e21a387e",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "zannis <zkalampoukis@gmail.com>"
+    }
+  }
+}

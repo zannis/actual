@@ -1,0 +1,24 @@
+packages/desktop-client/src/components/reports/reports/Summary.tsx
+  s_752b020f7e1f51::t_90aa47371d5341 791-794,797-798
+  s_752b020f7e1f51::t_4d525eb2608421 597
+  s_752b020f7e1f51::t_a7f7c55b320f5d 1
+  s_752b020f7e1f51::t_94549d5a509c14 123-128
+  s_752b020f7e1f51::t_2af2b241d3c743 55
+  s_752b020f7e1f51::t_8a578de53321ed 644-647,661,674-675,681-683
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.16",
+  "base_commit_sha": "cbdee903f646b297870b5c09085b31ec32cd4f54",
+  "prompts": {},
+  "sessions": {
+    "s_752b020f7e1f51": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "00614005-c1f3-4f3a-a10d-cc35e21a387e",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "zannis <zkalampoukis@gmail.com>"
+    }
+  }
+}

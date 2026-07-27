@@ -1,0 +1,19 @@
+packages/desktop-client/src/components/reports/spreadsheets/summary-spreadsheet.ts
+  s_752b020f7e1f51::t_7b537fe0143cb6 283-298,300-301,304-311,313-350,352-353,356
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.16",
+  "base_commit_sha": "86ff4e1228244bc8f9906653fc1a3173cf462310",
+  "prompts": {},
+  "sessions": {
+    "s_752b020f7e1f51": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "00614005-c1f3-4f3a-a10d-cc35e21a387e",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "zannis <zkalampoukis@gmail.com>"
+    }
+  }
+}

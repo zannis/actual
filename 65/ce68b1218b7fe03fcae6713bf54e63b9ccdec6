@@ -1,0 +1,27 @@
+packages/loot-core/src/types/models/dashboard.ts
+  s_752b020f7e1f51::t_76cff16e94fb12 193
+packages/desktop-client/src/components/reports/reports/Summary.tsx
+  s_752b020f7e1f51::t_d67654091916f2 27
+  s_752b020f7e1f51::t_413e5c34e7eb10 21
+  s_752b020f7e1f51::t_67945631ea4870 727-751,753-754,757-770
+  s_752b020f7e1f51::t_c61e48031279de 752,755-756
+  s_752b020f7e1f51::t_331e7218c1756a 529
+  s_752b020f7e1f51::t_f03fe7b96f5961 614-621,635,647-658,681-692
+  s_752b020f7e1f51::t_cced25b5832b9f 338-352,356,363-367,371,373-375,383-384
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.16",
+  "base_commit_sha": "65ce68b1218b7fe03fcae6713bf54e63b9ccdec6",
+  "prompts": {},
+  "sessions": {
+    "s_752b020f7e1f51": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "00614005-c1f3-4f3a-a10d-cc35e21a387e",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "zannis <zkalampoukis@gmail.com>"
+    }
+  }
+}

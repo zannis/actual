@@ -1,0 +1,19 @@
+upcoming-release-notes/summary-card-percentage-extra-terms.md
+  s_752b020f7e1f51::t_0a4fbdfac41271 1-6
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.16",
+  "base_commit_sha": "ec9e425ea7d9b951e9b989b4337e9bcaa3a4b015",
+  "prompts": {},
+  "sessions": {
+    "s_752b020f7e1f51": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "00614005-c1f3-4f3a-a10d-cc35e21a387e",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "zannis <zkalampoukis@gmail.com>"
+    }
+  }
+}

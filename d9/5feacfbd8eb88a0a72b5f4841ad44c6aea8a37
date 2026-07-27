@@ -1,0 +1,23 @@
+packages/desktop-client/src/components/reports/spreadsheets/summary-spreadsheet.test.ts
+  s_752b020f7e1f51::t_b2ef0446511c24 35-98
+  s_752b020f7e1f51::t_659c57e17d6306 1
+packages/desktop-client/src/components/reports/spreadsheets/summary-spreadsheet.ts
+  s_752b020f7e1f51::t_27ff507931e02e 30-38
+  s_752b020f7e1f51::t_a764e20f3867e7 372-374
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.16",
+  "base_commit_sha": "d95feacfbd8eb88a0a72b5f4841ad44c6aea8a37",
+  "prompts": {},
+  "sessions": {
+    "s_752b020f7e1f51": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "00614005-c1f3-4f3a-a10d-cc35e21a387e",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "zannis <zkalampoukis@gmail.com>"
+    }
+  }
+}

@@ -1,0 +1,36 @@
+packages/desktop-client/src/components/reports/reports/Summary.tsx
+  s_752b020f7e1f51::t_aae3891198cf79 618-619,630-632,635,637-660,665-671,673-677,694,696-697
+  s_752b020f7e1f51::t_ea4a078c7f3bd7 467
+  s_752b020f7e1f51::t_eb3996490d70df 636
+  s_752b020f7e1f51::t_e89f4989932aaa 678
+  s_752b020f7e1f51::t_6963dff8d40fd2 692-693
+  s_752b020f7e1f51::t_38f3ca07c5b016 695
+  s_752b020f7e1f51::t_1c0b8e57910767 698
+  s_80241f1b33816a::t_c5c286867438a0 440,444,461-463,481-482,489,501-503,506,508-509,512-513
+upcoming-release-notes/summary-card-mobile-layout.md
+  s_80241f1b33816a::t_6de98365f98dd5 1-6
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "f42ae99658851ba3149f0b159ab7e724f39b21ed",
+  "prompts": {},
+  "sessions": {
+    "s_752b020f7e1f51": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "00614005-c1f3-4f3a-a10d-cc35e21a387e",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "zannis <zkalampoukis@gmail.com>"
+    },
+    "s_80241f1b33816a": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "c696ba28-eee5-43cf-a81b-5592185c32d1",
+        "model": "unknown"
+      },
+      "human_author": "zannis <zkalampoukis@gmail.com>"
+    }
+  }
+}

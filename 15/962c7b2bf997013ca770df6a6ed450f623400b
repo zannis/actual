@@ -1,0 +1,19 @@
+upcoming-release-notes/summary-card-mobile-layout.md
+  s_d19862d6011bef::t_10f1b5a6edc64e 6
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "15962c7b2bf997013ca770df6a6ed450f623400b",
+  "prompts": {},
+  "sessions": {
+    "s_d19862d6011bef": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "184453e7-8f01-497c-89f3-1775cefbb782",
+        "model": "claude-opus-5"
+      },
+      "human_author": "zannis <zkalampoukis@gmail.com>"
+    }
+  }
+}

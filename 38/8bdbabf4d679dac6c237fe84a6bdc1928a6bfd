@@ -1,0 +1,34 @@
+packages/desktop-client/src/components/select/DateSelect.tsx
+  s_611dfc4f5bccf1::t_610f7cf3064c84 234-236
+packages/desktop-client/src/components/modals/EditFieldModal.tsx
+  s_611dfc4f5bccf1::t_51b371f1d072fe 9
+  s_611dfc4f5bccf1::t_ffe734edc34e30 87
+  s_611dfc4f5bccf1::t_818772026ec0f0 274
+  s_611dfc4f5bccf1::t_af0224df84191a 276
+  s_611dfc4f5bccf1::t_85aaac34a63b34 109
+  s_611dfc4f5bccf1::t_a01ee72fc6ef0e 107-108,110
+  s_611dfc4f5bccf1::t_fedc43147eff30 88
+packages/desktop-client/src/components/formula/FormulaEditor.tsx
+  s_611dfc4f5bccf1::t_4b3c4c5eaa78a1 473-474
+  s_611dfc4f5bccf1::t_a713e833b8fd22 450,452-453
+packages/desktop-client/e2e/accounts.test.ts
+  s_611dfc4f5bccf1::t_ef9f72cd47f6e1 167-170,172
+  s_611dfc4f5bccf1::t_f34f37e09a2bb6 3
+  s_611dfc4f5bccf1::t_eca38f28e9a211 123-130,142-143,160-161,171
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.23",
+  "base_commit_sha": "388bdbabf4d679dac6c237fe84a6bdc1928a6bfd",
+  "prompts": {},
+  "sessions": {
+    "s_611dfc4f5bccf1": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "9f67c766-a9df-4b57-acab-075601f4c28d",
+        "model": "claude-fable-5"
+      },
+      "human_author": "zannis <zkalampoukis@gmail.com>"
+    }
+  }
+}

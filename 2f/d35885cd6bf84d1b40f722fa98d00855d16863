@@ -1,0 +1,28 @@
+packages/desktop-client/e2e/accounts.test.ts
+  s_611dfc4f5bccf1::t_d44c31b3748456 122-167
+packages/desktop-client/src/components/select/DateSelect.tsx
+  s_611dfc4f5bccf1::t_a25e7a97e22418 159-168
+  s_611dfc4f5bccf1::t_ec26546c49a68a 151
+  s_611dfc4f5bccf1::t_0b1a6b671b8c64 234-245
+  s_611dfc4f5bccf1::t_7735c0a27efdda 539
+packages/desktop-client/src/components/modals/EditFieldModal.tsx
+  s_611dfc4f5bccf1::t_134e7dfa168266 269-271
+upcoming-release-notes/fix-bulk-edit-date-picker.md
+  s_611dfc4f5bccf1::t_3d6776fe56afaa 1-6
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "2fd35885cd6bf84d1b40f722fa98d00855d16863",
+  "prompts": {},
+  "sessions": {
+    "s_611dfc4f5bccf1": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "9f67c766-a9df-4b57-acab-075601f4c28d",
+        "model": "claude-fable-5"
+      },
+      "human_author": "zannis <zkalampoukis@gmail.com>"
+    }
+  }
+}

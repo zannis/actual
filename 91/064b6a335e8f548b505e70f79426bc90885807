@@ -1,0 +1,1351 @@
+.coderabbit.yaml
+  s_3b573df4c40cff::t_68dbcfc6e4e6fc 11-13
+.gitattributes
+  s_3b573df4c40cff::t_84840f088f2bd4 25
+.github/actions/setup/action.yml
+  s_3b573df4c40cff::t_d79ac8cf909f06 68-72
+.github/workflows/electron-master.yml
+  s_3b573df4c40cff::t_f4ec4599997df8 85
+.github/workflows/electron-pr.yml
+  s_3b573df4c40cff::t_d5b63b1baca8a8 57
+.github/workflows/i18n-string-extract-master.yml
+  s_3b573df4c40cff::t_9d2e0f7fec2025 46-50
+.github/workflows/publish-nightly-electron.yml
+  s_3b573df4c40cff::t_ae23ecec0bf8d7 59
+.github/workflows/stale.yml
+  s_3b573df4c40cff::t_9a79d4a770caab 29-30,33
+.oxlintrc.json
+  s_3b573df4c40cff::t_13ba5a856aa91d 3,83,174-217,415-416,419-424
+.yarn/plugins/strip-publish-config.cjs
+  s_3b573df4c40cff::t_1d8f05193552f1 1-33
+.yarnrc.yml
+  s_3b573df4c40cff::t_46f92ac50029e1 19-23
+DESIGN.md
+  s_3b573df4c40cff::t_0e8b02d9f4431e 45,136,140-163,201,210
+package.json
+  s_3b573df4c40cff::t_5b7fa35a782d3e 74,78-79,82-84,87-90,93,103
+packages/api/index.browser.ts
+  s_3b573df4c40cff::t_ef2892e382b68e 11,20,40-48
+packages/api/index.ts
+  s_3b573df4c40cff::t_dba21119b271d3 12-13,18,30-41
+packages/api/methods.test.ts
+  s_3b573df4c40cff::t_ac45c9bbc05d3d 1227-1336
+packages/api/methods.ts
+  s_3b573df4c40cff::t_76da2df389ec14 436-442
+packages/api/package.json
+  s_3b573df4c40cff::t_37e3462e14a362 3,60,62,68,70,72,75
+packages/api/vite.config.mts
+  s_3b573df4c40cff::t_8be53326e36511 46-56
+packages/ci-actions/package.json
+  s_3b573df4c40cff::t_222c6b632c3f41 16
+packages/ci-actions/src/release-notes/util.mjs
+  s_3b573df4c40cff::t_b5940b6a34c94c 103
+packages/cli/package.json
+  s_3b573df4c40cff::t_bc17253d5045c2 3,38,42,45-47
+packages/cli/src/lock.test.ts
+  s_3b573df4c40cff::t_174fd10cea08a0 69
+packages/cli/src/output.test.ts
+  s_3b573df4c40cff::t_57a37addd49221 239-269
+packages/cli/src/output.ts
+  s_3b573df4c40cff::t_780e876e112f07 75,79,87,96
+packages/component-library/package.json
+  s_3b573df4c40cff::t_4519c69f3ad926 47,66-67,71-75,79-80,82,84-89,92-93
+packages/component-library/src/Button.stories.tsx
+  s_3b573df4c40cff::t_26b943a8db43ba 1-112
+packages/component-library/src/Button.tsx
+  s_3b573df4c40cff::t_b7070a66da7cce 10-15,48-50,132-189,191,200-206,211-214,232,236
+packages/component-library/src/ComponentSize.web.test.tsx
+  s_3b573df4c40cff::t_7323c08574d4b7 1-190
+packages/component-library/src/Input.stories.tsx
+  s_3b573df4c40cff::t_2c7156f2c87337 216-241
+packages/component-library/src/Input.tsx
+  s_3b573df4c40cff::t_d4203e2914b52e 15-20,32-101,103-107,124,127-130,136-137,163-166,170-175,178-189,195-196
+packages/component-library/src/Text.stories.tsx
+  s_3b573df4c40cff::t_19ae544e082bd2 113-133
+packages/component-library/src/Text.tsx
+  s_3b573df4c40cff::t_6b05b599420c7e 7-11,13,16,21-46,48,53-57
+packages/component-library/src/Toggle.tsx
+  s_3b573df4c40cff::t_43f2dc01e4d3ff 39-42
+packages/component-library/src/styles.ts
+  s_3b573df4c40cff::t_8b621604e3f74c 15-18,96
+packages/component-library/src/theme.ts
+  s_3b573df4c40cff::t_1dd087a05b8438 64-73
+packages/component-library/src/themes/dark.css
+  s_3b573df4c40cff::t_be24b7402a422a 84-103
+packages/component-library/src/themes/light.css
+  s_3b573df4c40cff::t_2b57f9600f45b3 83-100
+packages/component-library/src/themes/midnight.css
+  s_3b573df4c40cff::t_f475f98a925d8b 84-103
+packages/component-library/src/tokens.ts
+  s_3b573df4c40cff::t_a1f06742fc8908 48,52,55-178
+packages/crdt/package.json
+  s_3b573df4c40cff::t_976c69f91c0b3c 3,42,44,47,49-51
+packages/desktop-client/e2e/accounts.test.ts
+  s_3b573df4c40cff::t_78d1993f0268e2 327-351,377-425
+packages/desktop-client/e2e/budget.mobile.test.ts
+  s_3b573df4c40cff::t_c51c9f7f8818ec 296-315,325-326,328-332,343-344,346-348
+packages/desktop-client/e2e/data/qif-categories.qif
+  s_3b573df4c40cff::t_37495d86fe27ed 1-11
+packages/desktop-client/e2e/page-models/mobile-account-page.ts
+  s_3b573df4c40cff::t_2c26bbc7414dee 80
+packages/desktop-client/e2e/page-models/mobile-balance-menu-modal.ts
+  s_3b573df4c40cff::t_f4d200b77299c6 34
+packages/desktop-client/e2e/page-models/mobile-budget-menu-modal.ts
+  s_3b573df4c40cff::t_7ac6087dc11963 38,42-46
+packages/desktop-client/e2e/page-models/mobile-budget-page.ts
+  s_3b573df4c40cff::t_895023ceca115c 165,187,229,246,315,341
+packages/desktop-client/e2e/page-models/mobile-category-group-menu-modal.ts
+  s_3b573df4c40cff::t_ec292475872973 7-8,15-25,29
+packages/desktop-client/e2e/page-models/mobile-category-menu-modal.ts
+  s_3b573df4c40cff::t_844f230a5f72a6 11,22-25,29,49
+packages/desktop-client/e2e/page-models/mobile-envelope-budget-summary-modal.ts
+  s_3b573df4c40cff::t_324d3063219088 16
+packages/desktop-client/e2e/page-models/mobile-navigation.ts
+  s_3b573df4c40cff::t_6cc00007abd544 15-16,36,38,172-177,188-193,197-202
+packages/desktop-client/e2e/page-models/mobile-tracking-budget-summary-modal.ts
+  s_3b573df4c40cff::t_554b4a8880db74 16
+packages/desktop-client/e2e/page-models/navigation.ts
+  s_3b573df4c40cff::t_eb3bd3b7e47a86 103-104,110-111,117-118,124
+packages/desktop-client/e2e/page-models/reports-page.ts
+  s_3b573df4c40cff::t_b9daf674f72e19 1,29-75
+packages/desktop-client/e2e/page-models/settings-page.ts
+  s_3b573df4c40cff::t_83961d92bd05da 3-11,15-16,23-24,37-52,54,59,69
+packages/desktop-client/e2e/reports.mobile.test.ts
+  s_3b573df4c40cff::t_e6ca142ece7e6f 1-64
+packages/desktop-client/e2e/reports.test.ts
+  s_3b573df4c40cff::t_d5d0c6f2cc9669 4,51-71,153-285,324-364
+packages/desktop-client/e2e/settings.test.ts
+  s_3b573df4c40cff::t_9f3981e947a632 42-157
+packages/desktop-client/e2e/transactions.mobile.test.ts
+  s_3b573df4c40cff::t_34bc346aabf800 77-79,83-112,209-240
+packages/desktop-client/e2e/transactions.test.ts
+  s_3b573df4c40cff::t_aec7c3ab872518 307-313
+packages/desktop-client/package.json
+  s_3b573df4c40cff::t_36700d5d73c8b5 3,69,80,90-92,153,155-157,159-162,165-166,168-174,176,179,184,187,190-191,193-195,199-201,204-206,208,212,217,220-222,225-228
+packages/desktop-client/src/accounts/mutations.ts
+  s_3b573df4c40cff::t_35a8e03f1132d2 7,183,192-197
+packages/desktop-client/src/accounts/syncStatus.test.ts
+  s_3b573df4c40cff::t_a60846184c75c8 21,55-64
+packages/desktop-client/src/accounts/syncStatus.ts
+  s_3b573df4c40cff::t_f363d165dfbe7a 35-42
+packages/desktop-client/src/browser-preload.js
+  s_3b573df4c40cff::t_4b28970716e0b4 9,19-24
+packages/desktop-client/src/budget/mutations.ts
+  s_3b573df4c40cff::t_ca772c64d2632d 251,270-276,472,481-485
+packages/desktop-client/src/budgetfiles/budgetfilesSlice.ts
+  s_3b573df4c40cff::t_efda5a66c70613 289,294-297,299,305,312,323,337,367
+packages/desktop-client/src/components/App.tsx
+  s_3b573df4c40cff::t_bf779cf843543f 1,40,61,63-67,135,212-217,219,221-223,226-248,250-255
+packages/desktop-client/src/components/CommandBar.tsx
+  s_3b573df4c40cff::t_b6e165ea3aa101 11,18-19,26,48-50,101-103,106-111,126
+packages/desktop-client/src/components/FinancesApp.tsx
+  s_3b573df4c40cff::t_18745714aaa0cd 5,15,42-48,50-51,120,265,284-291,309,315-317,322,328-329,335,341-343,348,350-357,361,363-365,369,371-393,400-468,557,564
+packages/desktop-client/src/components/FixedSizeList.tsx
+  s_3b573df4c40cff::t_6ef5e1a616c02e 472-475
+packages/desktop-client/src/components/HelpMenu.tsx
+  s_3b573df4c40cff::t_80dc343a11ca8c 26,29,32,34-41,43-44
+packages/desktop-client/src/components/ManageRulesPage.tsx
+  s_3b573df4c40cff::t_faa69901f8f6a7 11
+packages/desktop-client/src/components/StartPageRedirect.tsx
+  s_3b573df4c40cff::t_08851b86caf084 1,3-12
+packages/desktop-client/src/components/UpdateNotification.tsx
+  s_3b573df4c40cff::t_a3a55f7a7713a1 77
+packages/desktop-client/src/components/accounts/AccountSyncCheck.test.tsx
+  s_3b573df4c40cff::t_a7d7a42c093637 1-241
+packages/desktop-client/src/components/accounts/AccountSyncCheck.tsx
+  s_3b573df4c40cff::t_25b75b9e4326bd 18,20,52-56,104,138-153,171,226-239
+packages/desktop-client/src/components/autocomplete/Autocomplete.tsx
+  s_3b573df4c40cff::t_59e2f10b276e48 243-255,505,626
+packages/desktop-client/src/components/autocomplete/TagMultiAutocomplete.test.tsx
+  s_3b573df4c40cff::t_cc67e059bd3d2f 1-50
+packages/desktop-client/src/components/autocomplete/TagMultiAutocomplete.tsx
+  s_3b573df4c40cff::t_5a6bdfb1553151 9,18-27,29-37,40-46,49-56,66
+packages/desktop-client/src/components/banksync/AutomaticSyncSettings.test.tsx
+  s_3b573df4c40cff::t_92c7144c8d60f6 1-145
+packages/desktop-client/src/components/banksync/BankSyncCheckboxOptions.tsx
+  s_3b573df4c40cff::t_95cffc3e7f45ab 135
+packages/desktop-client/src/components/banksync/BuiltInProviders.tsx
+  s_3b573df4c40cff::t_84651b18b20ce1 152,157,176,262
+packages/desktop-client/src/components/banksync/EditSyncAccount.tsx
+  s_3b573df4c40cff::t_293968e4475cd1 217,229
+packages/desktop-client/src/components/banksync/FieldMapping.tsx
+  s_3b573df4c40cff::t_efc4a77d6470cf 115-116,154
+packages/desktop-client/src/components/banksync/bankSyncInterval.test.ts
+  s_3b573df4c40cff::t_a6488bc163d228 1-87
+packages/desktop-client/src/components/banksync/bankSyncInterval.ts
+  s_3b573df4c40cff::t_7f3428170c268e 1-66
+packages/desktop-client/src/components/banksync/index.tsx
+  s_3b573df4c40cff::t_fc84e27ac4c8ef 16,49,85-90,92,94-120,122-125
+packages/desktop-client/src/components/banksync/useBuiltInBankSyncProviders.ts
+  s_3b573df4c40cff::t_e22162e06388bb 1,129-135,137,139-145,147,149-154,156,158-164,166
+packages/desktop-client/src/components/budget/BalanceWithCarryover.tsx
+  s_3b573df4c40cff::t_33a32e3e5c0d05 148
+packages/desktop-client/src/components/budget/BudgetCategories.tsx
+  s_3b573df4c40cff::t_9a75898dcba449 118-122,147-150
+packages/desktop-client/src/components/budget/CategoryDeleteMessage.tsx
+  s_3b573df4c40cff::t_d1e41b67f09ebb 1-56
+packages/desktop-client/src/components/budget/envelope/BalanceMenu.tsx
+  s_3b573df4c40cff::t_4c97bae9dd465d 6,12,19,24,33-97
+packages/desktop-client/src/components/budget/envelope/BudgetMenu.tsx
+  s_3b573df4c40cff::t_2f38580a7dfbf0 6,10,15-16,20,23,46-94
+packages/desktop-client/src/components/budget/envelope/budgetsummary/BudgetMonthMenu.tsx
+  s_3b573df4c40cff::t_ffee1fff2e2651 6,10,19-111,122-130,132
+packages/desktop-client/src/components/budget/envelope/budgetsummary/ToBudgetAmount.tsx
+  s_3b573df4c40cff::t_4e547fd14cf1da 27,88
+packages/desktop-client/src/components/budget/envelope/budgetsummary/ToBudgetMenu.tsx
+  s_3b573df4c40cff::t_884214dcdc7273 6,11,20,27,35-36,79-140
+packages/desktop-client/src/components/budget/goals/editor/BySaveAutomation.tsx
+  s_3b573df4c40cff::t_4c36c731679442 1,45-48,50
+packages/desktop-client/src/components/budget/goals/editor/CleanupAutomation.tsx
+  s_3b573df4c40cff::t_8ac4834bd0105f 75
+packages/desktop-client/src/components/budget/goals/editor/FixedAutomation.tsx
+  s_3b573df4c40cff::t_c6e3907f1fc1f2 1,47-49,51
+packages/desktop-client/src/components/budget/goals/editor/HistoricalAutomation.tsx
+  s_3b573df4c40cff::t_5deaa6e9051dca 1,39-41,43
+packages/desktop-client/src/components/budget/goals/editor/LimitAutomation.tsx
+  s_3b573df4c40cff::t_86e4f469d9e10e 1,8,49-52,134,138
+packages/desktop-client/src/components/budget/goals/editor/RemainderAutomation.tsx
+  s_3b573df4c40cff::t_62a15dec2a7cd4 1,28-31,33,57
+packages/desktop-client/src/components/budget/tracking/BalanceMenu.tsx
+  s_3b573df4c40cff::t_c11154e5f9dcd3 6,12,17,20,25-61
+packages/desktop-client/src/components/budget/tracking/BudgetMenu.tsx
+  s_3b573df4c40cff::t_d7e6f91608641b 6,10,16-17,22,25,51-105
+packages/desktop-client/src/components/budget/tracking/budgetsummary/BudgetMonthMenu.tsx
+  s_3b573df4c40cff::t_def405f2eb973c 6,10,19-102,112-121
+packages/desktop-client/src/components/common/AriaRouterProvider.tsx
+  s_3b573df4c40cff::t_ffe0376db363fe 1-20
+packages/desktop-client/src/components/common/CalculatorButtons.test.tsx
+  s_3b573df4c40cff::t_f2355e7b2d3d78 4-10,40-194
+packages/desktop-client/src/components/common/CalculatorButtons.tsx
+  s_3b573df4c40cff::t_0caf2941563480 1,229,271,277,279-299,310-334
+packages/desktop-client/src/components/common/Modal.tsx
+  s_3b573df4c40cff::t_daf6c9383429bd 27,29,34-37,41-88,90-91,114-115,120,130-143,146-162,165-172,177,179-185,207-209,215-218,221-222,229,235,250,254,307,324,332,357
+packages/desktop-client/src/components/filters/FiltersMenu.tsx
+  s_3b573df4c40cff::t_cc8eca81c8e2f6 69-70,142
+packages/desktop-client/src/components/filters/PayeeFilter.tsx
+  s_3b573df4c40cff::t_9db34b0387db28 54
+packages/desktop-client/src/components/formula/QueryManager.tsx
+  s_3b573df4c40cff::t_29235ba26cc67e 14,258,669,672,849,851
+packages/desktop-client/src/components/formula/formulaCatalog.ts
+  s_3b573df4c40cff::t_a8b83f83ef55a1 1137,1339,1456
+packages/desktop-client/src/components/manager/BudgetFileSelection.tsx
+  s_3b573df4c40cff::t_912a9acbacf176 252,547,550,554
+packages/desktop-client/src/components/manager/ConfigServer.tsx
+  s_3b573df4c40cff::t_3f517633d2b7b2 291-294,296,460,478
+packages/desktop-client/src/components/manager/subscribe/Bootstrap.tsx
+  s_3b573df4c40cff::t_0217d6df787509 92
+packages/desktop-client/src/components/manager/subscribe/ChangePassword.tsx
+  s_3b573df4c40cff::t_8b960e3f0def1a 6,23,27-34,48-51,57-63,80,86,99,110-119
+packages/desktop-client/src/components/manager/subscribe/Login.tsx
+  s_3b573df4c40cff::t_db0416c2f084a4 231,305-310,438
+packages/desktop-client/src/components/manager/subscribe/OpenIdForm.tsx
+  s_3b573df4c40cff::t_a50d646ba72253 165
+packages/desktop-client/src/components/mobile/MobileForms.test.tsx
+  s_3b573df4c40cff::t_4a3161c9d93fd1 1-75
+packages/desktop-client/src/components/mobile/MobileForms.tsx
+  s_3b573df4c40cff::t_9835d8877104c2 59-76,110-111,115-121,135,140,171,176
+packages/desktop-client/src/components/mobile/MobileNavTabs.tsx
+  s_3b573df4c40cff::t_5cb4d86e3ed474 25,28,221
+packages/desktop-client/src/components/mobile/MobileSheetActions.tsx
+  s_3b573df4c40cff::t_b97e2e14c2096f 1-58
+packages/desktop-client/src/components/mobile/MobileSheetBalanceHeader.tsx
+  s_3b573df4c40cff::t_50f312867027a7 1-57
+packages/desktop-client/src/components/mobile/MobileSheetCarryoverIndicator.tsx
+  s_3b573df4c40cff::t_61d09701d3f8e2 1-23
+packages/desktop-client/src/components/mobile/MobileSheetCategoryPicker.tsx
+  s_3b573df4c40cff::t_f99c58bef62459 3,5-6,8-13,15-20,22,25-37,39-42
+packages/desktop-client/src/components/mobile/MobileSheetConfirm.tsx
+  s_3b573df4c40cff::t_644e1469436107 1-70
+packages/desktop-client/src/components/mobile/MobileSheetDeleteConfirm.tsx
+  s_3b573df4c40cff::t_481076fc272baa 1-58
+packages/desktop-client/src/components/mobile/MobileSheetMenuRows.tsx
+  s_3b573df4c40cff::t_6b6b624e084161 1,3,5,7,9-12,14-17,19-36,38,40
+packages/desktop-client/src/components/mobile/MobileSheetPickerField.tsx
+  s_3b573df4c40cff::t_c018b6d0e05011 1-37
+packages/desktop-client/src/components/mobile/MobileSheetRow.tsx
+  s_3b573df4c40cff::t_8d1032218263fa 1-38
+packages/desktop-client/src/components/mobile/MobileSheetSection.tsx
+  s_3b573df4c40cff::t_07614d741e8d9a 1-49
+packages/desktop-client/src/components/mobile/accounts/AccountPage.tsx
+  s_3b573df4c40cff::t_0400662798db26 220
+packages/desktop-client/src/components/mobile/accounts/AccountsPage.tsx
+  s_3b573df4c40cff::t_5698b19c71b75f 94
+packages/desktop-client/src/components/mobile/banksync/BankSyncAccountsListItem.tsx
+  s_3b573df4c40cff::t_051f4cce444a6b 6,41,47,54,64,74
+packages/desktop-client/src/components/mobile/banksync/MobileBankSyncAccountEditPage.tsx
+  s_3b573df4c40cff::t_b924ac82483125 9,50,55,72,130-131,144
+packages/desktop-client/src/components/mobile/banksync/MobileBankSyncPage.tsx
+  s_3b573df4c40cff::t_2c696111350cb3 10,21,53-54,105-113,123-127
+packages/desktop-client/src/components/mobile/budget/BudgetMonthMenuSheet.tsx
+  s_3b573df4c40cff::t_2500f208720fcd 1-75
+packages/desktop-client/src/components/mobile/budget/BudgetPage.tsx
+  s_3b573df4c40cff::t_1c80335c07fba9 239,241,254,256,449
+packages/desktop-client/src/components/mobile/budget/ExpenseCategoryList.tsx
+  s_3b573df4c40cff::t_accd0bea54a778 1-7,17-18,22-25,48-65,68,70,88-93,95-96
+packages/desktop-client/src/components/mobile/budget/ExpenseCategoryListItem.tsx
+  s_3b573df4c40cff::t_0ec3a649b1fa06 252
+packages/desktop-client/src/components/mobile/budget/IncomeCategoryListItem.tsx
+  s_3b573df4c40cff::t_c1583c35b6a275 17,208
+packages/desktop-client/src/components/mobile/budget/ToBudgetSheetActions.tsx
+  s_3b573df4c40cff::t_514d0f4c0c2909 1-14
+packages/desktop-client/src/components/mobile/payees/MobilePayeeEditPage.tsx
+  s_3b573df4c40cff::t_592861a267a607 3,26,28-29,48,51,72,84-92
+packages/desktop-client/src/components/mobile/payees/MobilePayeesPage.test.tsx
+  s_3b573df4c40cff::t_52888b01c2c653 2,37-41,61,64-67,150-180
+packages/desktop-client/src/components/mobile/payees/MobilePayeesPage.tsx
+  s_3b573df4c40cff::t_385d2adff78c63 1,3,13,15,20,30,33-44,54-60,64-66,68,80,85,134-142
+packages/desktop-client/src/components/mobile/rules/AddRuleButton.tsx
+  s_3b573df4c40cff::t_38e6af6e8c0eba 3,13,16-18
+packages/desktop-client/src/components/mobile/rules/MobileRuleEditPage.tsx
+  s_3b573df4c40cff::t_3d3a201386d029 29-30,35,39,41,44,61,67,73,105,130
+packages/desktop-client/src/components/mobile/rules/MobileRulesPage.tsx
+  s_3b573df4c40cff::t_519a0742d73750 3,16,18,35,41-51,129-131,133,139,141,188-192
+packages/desktop-client/src/components/mobile/schedules/SchedulesListItem.tsx
+  s_3b573df4c40cff::t_25d8d082eaebe2 80
+packages/desktop-client/src/components/mobile/transactions/CalculatorKeyboard.tsx
+  s_3b573df4c40cff::t_c42390fe51b068 12-13
+packages/desktop-client/src/components/mobile/transactions/FocusableAmountInput.tsx
+  s_3b573df4c40cff::t_a5290f8619c8a7 199-203
+packages/desktop-client/src/components/mobile/transactions/TransactionEdit.tsx
+  s_3b573df4c40cff::t_e7eb54e4106626 84-89,797,924-946,1024,1192-1197,1507-1511,1617-1618,1724-1729,1746-1751,1764,1766-1772,1779-1786,1854,1871,2085
+packages/desktop-client/src/components/mobile/transactions/TransactionList.tsx
+  s_3b573df4c40cff::t_e561c23156f93c 204,535
+packages/desktop-client/src/components/mobile/transactions/TransactionListWithBalances.tsx
+  s_3b573df4c40cff::t_61dac1d32a43b5 199
+packages/desktop-client/src/components/mobile/utils.ts
+  s_3b573df4c40cff::t_6929b833411ee8 39-53
+packages/desktop-client/src/components/modals/AccountMenuModal.tsx
+  s_3b573df4c40cff::t_c7e9a8d90aab2f 1,3-6,31-36,43-50,52,54-55,58,60-73,75-83,85-93,95-108,111
+packages/desktop-client/src/components/modals/BudgetAutomationsModal/AutomationEditorPane.tsx
+  s_3b573df4c40cff::t_54fe51aa9b1d6d 10,233,235,291,295
+packages/desktop-client/src/components/modals/BudgetAutomationsModal/AutomationListRow.tsx
+  s_3b573df4c40cff::t_3cc9f18834d61e 6,169,173
+packages/desktop-client/src/components/modals/BudgetAutomationsModal/BudgetAutomationsBody.tsx
+  s_3b573df4c40cff::t_c7696f3b9a73c0 188
+packages/desktop-client/src/components/modals/BudgetAutomationsModal/BudgetAutomationsModal.tsx
+  s_3b573df4c40cff::t_30d78dab4f428a 1,42-48,65
+packages/desktop-client/src/components/modals/BudgetAutomationsModal/CleanupListRow.tsx
+  s_3b573df4c40cff::t_4595b25b00c2a2 71
+packages/desktop-client/src/components/modals/BudgetAutomationsModal/EmptyState.tsx
+  s_3b573df4c40cff::t_31fbb104f4d817 6,54,57,116
+packages/desktop-client/src/components/modals/BudgetAutomationsModal/useBudgetAutomationsEditor.ts
+  s_3b573df4c40cff::t_f1103b5d656730 72,219
+packages/desktop-client/src/components/modals/BudgetPageMenuModal.tsx
+  s_3b573df4c40cff::t_04b0f27c17db2e 3-4,18-19,22-23,25-35,37-42,46
+packages/desktop-client/src/components/modals/CategoryGroupMenuModal.tsx
+  s_3b573df4c40cff::t_7aaec4e99215c2 1,3-7,9-10,31-39,42-46,48-50,52-60,63,65-68,70,72-78,80-122,124-129,131-138,141-152
+packages/desktop-client/src/components/modals/CategoryMenuModal.tsx
+  s_3b573df4c40cff::t_570086439c1334 1,3-8,11,31-41,43-45,47-56,59,61-64,66,68-74,76-86,89-92,94-111
+packages/desktop-client/src/components/modals/CloseAccountModal.tsx
+  s_3b573df4c40cff::t_1e54437766ef77 1-2,12,23-26,38-39,52,61,66-67,70,72-75,79-82,86-88,90-92,95,98-99,104-251,255,265-266,269-270,282-283,288-289,293,296,305,307,310,315
+packages/desktop-client/src/components/modals/ConfirmCategoryDeleteModal.tsx
+  s_3b573df4c40cff::t_db61c014748835 1-2,6-7,10,14,16-18,32-33,35,44,46-48,50-67,69,71-77,80-113,123,127-128,131,140-146,148,151-152,158
+packages/desktop-client/src/components/modals/ConfirmTransactionEditModal.tsx
+  s_3b573df4c40cff::t_1488c69fac625a 118
+packages/desktop-client/src/components/modals/CreateAccountModal.tsx
+  s_3b573df4c40cff::t_64069698b9e387 125
+packages/desktop-client/src/components/modals/EnableBankingExternalMsgModal.tsx
+  s_3b573df4c40cff::t_05cd272a326406 128
+packages/desktop-client/src/components/modals/EnableBankingInitialiseModal.tsx
+  s_3b573df4c40cff::t_34034e5f3f776c 14-15,37-38,66,129-135,176,194,213,226
+packages/desktop-client/src/components/modals/EnvelopeBalanceMenuModal.tsx
+  s_3b573df4c40cff::t_64670a6c4ef561 3-7,24-29,36-48
+packages/desktop-client/src/components/modals/EnvelopeBudgetMenuModal.tsx
+  s_3b573df4c40cff::t_212a0f712dc1fd 1,3,14,24-28,31,33-40
+packages/desktop-client/src/components/modals/EnvelopeBudgetMonthMenuModal.tsx
+  s_3b573df4c40cff::t_b8670a60954d05 1,5-6,20,22,24-34,36-67,71,73-78
+packages/desktop-client/src/components/modals/EnvelopeBudgetSummaryModal.tsx
+  s_3b573df4c40cff::t_df844bd7588f4f 4-5,16-17,131-138,141,145,148-160,162
+packages/desktop-client/src/components/modals/EnvelopeIncomeBalanceMenuModal.tsx
+  s_3b573df4c40cff::t_108243be9ff79b 4-7,33-52
+packages/desktop-client/src/components/modals/GoCardlessExternalMsgModal.test.tsx
+  s_fabaf9f69a8d46::t_b7dd2dc605648e 53-55,78-80,103-105,128-130,165-167
+packages/desktop-client/src/components/modals/GoCardlessExternalMsgModal.tsx
+  s_3b573df4c40cff::t_b33d37a6e6df1d 117
+packages/desktop-client/src/components/modals/HoldBufferModal.tsx
+  s_3b573df4c40cff::t_033760773e770a 1,26-29,31
+packages/desktop-client/src/components/modals/ImportTransactionsModal/ImportTransactionsModal.tsx
+  s_3b573df4c40cff::t_258432e3b834d5 179,246-248,367,484,517,568,646,650,708-713,716,749,1205-1232,1400-1402
+packages/desktop-client/src/components/modals/ImportTransactionsModal/SubLabel.tsx
+  s_3b573df4c40cff::t_a970e49411341a 12
+packages/desktop-client/src/components/modals/ImportTransactionsModal/utils.test.ts
+  s_3b573df4c40cff::t_781fc4710dc386 87,123,143-144
+packages/desktop-client/src/components/modals/ImportTransactionsModal/utils.ts
+  s_3b573df4c40cff::t_51d3ab3ce61ea3 48
+packages/desktop-client/src/components/modals/KeyboardShortcutModal.tsx
+  s_3b573df4c40cff::t_d8c0c0981b147b 567
+packages/desktop-client/src/components/modals/PayeeAutocompleteModal.tsx
+  s_3b573df4c40cff::t_561b2353abeb08 2,4,7,28,41,75-105
+packages/desktop-client/src/components/modals/ScheduledTransactionMenuModal.tsx
+  s_3b573df4c40cff::t_6d00953cdfe191 7,16-18,34,50-53,60-96,98-102,104-106
+packages/desktop-client/src/components/modals/SelectLinkedAccountsModal.tsx
+  s_3b573df4c40cff::t_f6a0277d67b88c 11,986,988,1008,1010
+packages/desktop-client/src/components/modals/TrackingBalanceMenuModal.tsx
+  s_3b573df4c40cff::t_570bae3bb871ed 3-7,22,29-41
+packages/desktop-client/src/components/modals/TrackingBudgetMenuModal.tsx
+  s_3b573df4c40cff::t_9262fc85517a78 1,3,14,25-30,33,35-42
+packages/desktop-client/src/components/modals/TrackingBudgetMonthMenuModal.tsx
+  s_3b573df4c40cff::t_852c31cf3e8a32 1,5-6,21-22,24-33,35-62,66,68-73
+packages/desktop-client/src/components/modals/TrackingBudgetSummaryModal.tsx
+  s_3b573df4c40cff::t_56ec0a436b6213 6-7,14,29-49,51-53
+packages/desktop-client/src/components/modals/TransactionTableColumnListItem.tsx
+  s_3b573df4c40cff::t_b6120f0ac88088 82
+packages/desktop-client/src/components/modals/TransactionTableColumnsModal.tsx
+  s_3b573df4c40cff::t_915e818cf7d36b 9,174,178
+packages/desktop-client/src/components/news/MarkdownBlockquote.tsx
+  s_3b573df4c40cff::t_a633f718b63cb4 12,100,102
+packages/desktop-client/src/components/news/NewsEntryCard.tsx
+  s_3b573df4c40cff::t_35edca2f6752a9 14,17-18,20-26,35,62-66,68-70,87,89,92,94,96,104,108-142
+packages/desktop-client/src/components/news/NewsMarkdown.tsx
+  s_3b573df4c40cff::t_f890f597bf0247 1-52
+packages/desktop-client/src/components/news/NotificationsButton.test.tsx
+  s_3b573df4c40cff::t_aeda1280589230 22-23
+packages/desktop-client/src/components/news/NotificationsButton.tsx
+  s_3b573df4c40cff::t_8e95ed53dfd16c 36
+packages/desktop-client/src/components/news/NotificationsPage.test.tsx
+  s_3b573df4c40cff::t_39f1ffdcf466ef 13,16,27-28,33,75,84-93,113-123,138-139,142-151,160-171
+packages/desktop-client/src/components/news/NotificationsPage.tsx
+  s_3b573df4c40cff::t_32af0a92a290b0 4,26-33,57,76-95,97,99-100,106,121-139
+packages/desktop-client/src/components/payees/ManagePayeesPage.tsx
+  s_3b573df4c40cff::t_44e6227148de1a 15
+packages/desktop-client/src/components/reports/CategorySelector.tsx
+  s_3b573df4c40cff::t_5577bf8558151e 2,53
+packages/desktop-client/src/components/reports/Change.test.tsx
+  s_3b573df4c40cff::t_de19d9f309ce55 53
+packages/desktop-client/src/components/reports/ChooseGraph.tsx
+  s_3b573df4c40cff::t_2ecbdde912e0ec 108,111-112
+packages/desktop-client/src/components/reports/FormulaResult.tsx
+  s_3b573df4c40cff::t_a3534a0ad2c7af 1,50-56,66,85-94
+packages/desktop-client/src/components/reports/Overview.tsx
+  s_3b573df4c40cff::t_cb890cf273f65f 74-82,87-96,311
+packages/desktop-client/src/components/reports/ReportCard.test.tsx
+  s_3b573df4c40cff::t_eef5932d51e48a 1-111
+packages/desktop-client/src/components/reports/ReportCard.tsx
+  s_3b573df4c40cff::t_4e775b8d18fa94 46-50,73
+packages/desktop-client/src/components/reports/ReportOptions.ts
+  s_3b573df4c40cff::t_9955d8b7b175c8 22,65,330,338-339,350,423,426-431,474-477
+packages/desktop-client/src/components/reports/ReportSidebar.tsx
+  s_3b573df4c40cff::t_248567e0ebd926 21,23,40,46,52,91,97,191-196,203,206-207,327-334,337,339-347
+packages/desktop-client/src/components/reports/SummaryNumber.tsx
+  s_3b573df4c40cff::t_d5dc172ee5718d 1,40,63,75-77
+packages/desktop-client/src/components/reports/TagScopeSelector.test.tsx
+  s_3b573df4c40cff::t_cec45fdbfc99dd 1-142
+packages/desktop-client/src/components/reports/TagScopeSelector.tsx
+  s_3b573df4c40cff::t_ac5764b6c3c396 1-137
+packages/desktop-client/src/components/reports/disabledList.ts
+  s_3b573df4c40cff::t_788d1e8a5c7ada 106-113,222-224
+packages/desktop-client/src/components/reports/graphs/AreaGraph.tsx
+  s_3b573df4c40cff::t_c0398764f6c4da 1,10-11,28-29,32,37,183-190,194,198-199,206,210-211,215-218,278,362-388
+packages/desktop-client/src/components/reports/graphs/BarGraph.tsx
+  s_3b573df4c40cff::t_4df7bf74c21ddc 196-207,332,334-340,345-375
+packages/desktop-client/src/components/reports/graphs/CalendarGraph.tsx
+  s_3b573df4c40cff::t_711bde1c32f61d 1,47,312
+packages/desktop-client/src/components/reports/graphs/CashFlowGraph.tsx
+  s_3b573df4c40cff::t_a3d7d41e714abc 193-197
+packages/desktop-client/src/components/reports/graphs/DonutGraph.tsx
+  s_3b573df4c40cff::t_7ed87fef628f0d 34-35,669,680-695,705-707
+packages/desktop-client/src/components/reports/graphs/LineGraph.tsx
+  s_3b573df4c40cff::t_2012567e5617c5 192,207-208,305
+packages/desktop-client/src/components/reports/graphs/MonteCarloCashflowGraphTooltip.tsx
+  s_3b573df4c40cff::t_fefd4e9cee5808 23-29,51-52,61-62,67,95-96
+packages/desktop-client/src/components/reports/graphs/MonteCarloPotBalancesGraph.tsx
+  s_3b573df4c40cff::t_d6b066ac299724 1-118
+packages/desktop-client/src/components/reports/graphs/NetWorthGraph.tsx
+  s_3b573df4c40cff::t_b470db586fcd33 36-37,339
+packages/desktop-client/src/components/reports/graphs/StackedBarGraph.test.tsx
+  s_3b573df4c40cff::t_62ca057c14b661 1-150
+packages/desktop-client/src/components/reports/graphs/StackedBarGraph.tsx
+  s_3b573df4c40cff::t_47747da7c69615 94-97,99,101,103-106,108-109,148,323-324
+packages/desktop-client/src/components/reports/graphs/showActivity.test.ts
+  s_3b573df4c40cff::t_56ad87981af1b6 1,18-48,170-272
+packages/desktop-client/src/components/reports/graphs/showActivity.ts
+  s_3b573df4c40cff::t_78faa220082ecb 4,12,31-32,50-51,64,66-79,81-83,85-86,88-102,110-114
+packages/desktop-client/src/components/reports/graphs/tableGraph/ReportTable.tsx
+  s_3b573df4c40cff::t_b2098bb6a58cec 97,129
+packages/desktop-client/src/components/reports/graphs/tableGraph/ReportTableList.test.tsx
+  s_3b573df4c40cff::t_61e9deed203896 1-81
+packages/desktop-client/src/components/reports/graphs/tableGraph/ReportTableList.tsx
+  s_3b573df4c40cff::t_4aba009473614d 43-44
+packages/desktop-client/src/components/reports/graphs/tableGraph/ReportTableRow.tsx
+  s_3b573df4c40cff::t_56937adb4904d6 41,70,85-101,116,195-196,246,248-249,293,295-296,339,341-342
+packages/desktop-client/src/components/reports/graphs/util/monteCarloCashflowChart.test.ts
+  s_3b573df4c40cff::t_9adc76d78be5fc 40
+packages/desktop-client/src/components/reports/graphs/util/monteCarloCashflowChart.ts
+  s_3b573df4c40cff::t_7569a1cd00da21 19-28,135
+packages/desktop-client/src/components/reports/graphs/util/monteCarloPotBalancesChart.test.ts
+  s_3b573df4c40cff::t_3b211d8fbab0e5 1-158
+packages/desktop-client/src/components/reports/reportRanges.test.ts
+  s_3b573df4c40cff::t_64025004aa26be 99,106-107,110,117-118,121,129-174,179-189
+packages/desktop-client/src/components/reports/reportRanges.ts
+  s_3b573df4c40cff::t_001f4f7e50feb0 358-359,361,365-366,370-371
+packages/desktop-client/src/components/reports/reports/AgeOfMoney.tsx
+  s_3b573df4c40cff::t_a7a90d5e00c8a1 323
+packages/desktop-client/src/components/reports/reports/BalanceForecast.tsx
+  s_3b573df4c40cff::t_97c4fef4db1a71 9,32,436,442,454,459,467-471,473
+packages/desktop-client/src/components/reports/reports/Calendar.tsx
+  s_3b573df4c40cff::t_6ba1e97e927e73 106-107,177-189,242,433,684
+packages/desktop-client/src/components/reports/reports/CashFlow.tsx
+  s_3b573df4c40cff::t_d485dc998f9ef8 99
+packages/desktop-client/src/components/reports/reports/CustomReport.tsx
+  s_3b573df4c40cff::t_997ac9603eb384 56,70,155,276-279,499-500,578-579,594-595,624-625,714,773-774,913,919,965,975-981,983-1009,1014,1025
+packages/desktop-client/src/components/reports/reports/CustomReportListCards.tsx
+  s_3b573df4c40cff::t_d71999a67a71b4 22,78,84-85,172,183
+packages/desktop-client/src/components/reports/reports/FormulaCard.tsx
+  s_3b573df4c40cff::t_7ef2c740f116a9 1
+packages/desktop-client/src/components/reports/reports/GetCardData.tsx
+  s_3b573df4c40cff::t_b9d78725fa6ea6 16,74,84,166-167,178
+packages/desktop-client/src/components/reports/reports/NetWorth.tsx
+  s_3b573df4c40cff::t_bb33c487bf0f18 123,362
+packages/desktop-client/src/components/reports/reports/Sankey.tsx
+  s_3b573df4c40cff::t_f0d0fe29e59d24 49-52,90-91,94,101,164-165,291-294,330,529,532,544,565,1000
+packages/desktop-client/src/components/reports/reports/SankeyCard.tsx
+  s_3b573df4c40cff::t_6844b5f0671e3e 33,113-114,116-117
+packages/desktop-client/src/components/reports/reports/Spending.tsx
+  s_3b573df4c40cff::t_31968603246967 249-270,329,350
+packages/desktop-client/src/components/reports/reports/monte-carlo/MonteCarlo.tsx
+  s_3b573df4c40cff::t_41e514abdcaefc 1,26,71-79,112-114,122,157,168-182,184-195,197-206,208,210,213-235,489-490,508-513,537,539-540,600-622,645-652,657,797-809
+packages/desktop-client/src/components/reports/reports/monte-carlo/MonteCarloCard.tsx
+  s_3b573df4c40cff::t_70918410a75397 1,46-48,50-58
+packages/desktop-client/src/components/reports/reports/monte-carlo/MonteCarloConfiguration.tsx
+  s_3b573df4c40cff::t_4181888f712bc3 31,33,35,352-357,374-377,411-447,649-650
+packages/desktop-client/src/components/reports/reports/monte-carlo/MonteCarloContributions.tsx
+  s_3b573df4c40cff::t_f464f3edeaa241 412
+packages/desktop-client/src/components/reports/reports/monte-carlo/MonteCarloInvestmentPhaseRow.tsx
+  s_3b573df4c40cff::t_0500f72afb138d 1-349
+packages/desktop-client/src/components/reports/reports/monte-carlo/MonteCarloNumberInput.tsx
+  s_3b573df4c40cff::t_f761b8492fb5f3 56-60,115,118-134
+packages/desktop-client/src/components/reports/reports/monte-carlo/MonteCarloPotConfiguration.tsx
+  s_3b573df4c40cff::t_136377d92b9b3f 9,20,25,29-30,32,34,38-42,66-68,79-80,100-134,394-395,594,783-837
+packages/desktop-client/src/components/reports/reports/monte-carlo/MonteCarloRunDetailTable.tsx
+  s_3b573df4c40cff::t_6036026b1074ff 10,14,23,68-69,83,91-93,98-129,463-481,483,719,722,753,755,766,783,817,838,846,855,872,889,903,926-928,948-968,1102-1109
+packages/desktop-client/src/components/reports/reports/monte-carlo/MonteCarloRunsTable.tsx
+  s_3b573df4c40cff::t_82bbe3594c86cd 37-38,47,61,78-88
+packages/desktop-client/src/components/reports/reports/monte-carlo/MonteCarloWithdrawalRuleConfiguration.tsx
+  s_3b573df4c40cff::t_e63256802d205b 317
+packages/desktop-client/src/components/reports/reports/monte-carlo/monteCarloSimulation.test.ts
+  s_3b573df4c40cff::t_f95637b9dfd74d 4-5,11,24,81,110,156-176,527-685,3539-3816
+packages/desktop-client/src/components/reports/reports/monte-carlo/monteCarloSimulation.ts
+  s_3b573df4c40cff::t_4f89d7fe5b4fce 6-7,145-332,349-354,519-544,582-583,586-618,638,660,750-751,754-758,802,816-845,848,869-879,987-988,1650-1703,1945-1955,2030-2032,2110-2121,2445,2450,2452-2457,2502-2504
+packages/desktop-client/src/components/reports/setSessionReport.ts
+  s_3b573df4c40cff::t_3b242cb4cbd249 1,3-9,17
+packages/desktop-client/src/components/reports/spreadsheets/calculateLegend.ts
+  s_3b573df4c40cff::t_568462951c79b8 76-77
+packages/desktop-client/src/components/reports/spreadsheets/custom-spreadsheet.test.ts
+  s_3b573df4c40cff::t_0d6fe7cb57fd14 1-79
+packages/desktop-client/src/components/reports/spreadsheets/custom-spreadsheet.ts
+  s_3b573df4c40cff::t_2f51b9c2b07f78 8,15,26-27,33-36,39,64-65,89-90,96-102,108-125,149,152-180,383
+packages/desktop-client/src/components/reports/spreadsheets/fetchSpreadsheetQueryData.ts
+  s_3b573df4c40cff::t_3cfac08499ca19 27,40,64,75
+packages/desktop-client/src/components/reports/spreadsheets/filterHiddenItems.ts
+  s_3b573df4c40cff::t_7cbad864584740 14-19,46-64
+packages/desktop-client/src/components/reports/spreadsheets/makeQuery.test.ts
+  s_3b573df4c40cff::t_71b50cb4b65dd6 1-34
+packages/desktop-client/src/components/reports/spreadsheets/makeQuery.ts
+  s_3b573df4c40cff::t_0d47578fd81823 2,13,43-69
+packages/desktop-client/src/components/reports/spreadsheets/recalculate.ts
+  s_3b573df4c40cff::t_8f71a4416ccfa2 19-24,117
+packages/desktop-client/src/components/reports/spreadsheets/sankey-spreadsheet.ts
+  s_3b573df4c40cff::t_8f3a16806ddad2 106,143,154,235-236,981,996,1205,1241,1369-1370,1668,1684,1689,1708,1836,1838-1839,1872-1873,1951,1957
+packages/desktop-client/src/components/reports/spreadsheets/tagGroups.test.ts
+  s_3b573df4c40cff::t_3ca95dbaa00b8f 1-120
+packages/desktop-client/src/components/reports/tagScope.test.ts
+  s_3b573df4c40cff::t_821ee6b97969d9 1-39
+packages/desktop-client/src/components/reports/tagScope.ts
+  s_3b573df4c40cff::t_44168cef524f1f 1-30
+packages/desktop-client/src/components/reports/util.test.ts
+  s_3b573df4c40cff::t_6bf8a136ec236a 1-46
+packages/desktop-client/src/components/reports/util.ts
+  s_3b573df4c40cff::t_ef57a4ded8c95d 6,9,44,53-54,59-60,66-73
+packages/desktop-client/src/components/rules/RuleEditor.tsx
+  s_3b573df4c40cff::t_3c4ba196a163a0 243,559,1448
+packages/desktop-client/src/components/rules/RuleRow.tsx
+  s_3b573df4c40cff::t_26410d2c29cc40 168
+packages/desktop-client/src/components/schedules/ScheduleEditForm.tsx
+  s_3b573df4c40cff::t_3649aa261909a3 403-404,441-442,461
+packages/desktop-client/src/components/schedules/index.tsx
+  s_3b573df4c40cff::t_0e059390eff7eb 90,150
+packages/desktop-client/src/components/settings/AuthSettings.tsx
+  s_3b573df4c40cff::t_294c0c036a6067 13,29,32-63,66-76
+packages/desktop-client/src/components/settings/Backups.tsx
+  s_3b573df4c40cff::t_df0919eb2469ec 2,4,7,12-24
+packages/desktop-client/src/components/settings/BudgetTypeSettings.tsx
+  s_3b573df4c40cff::t_2301f31c80fceb 2,6,12,15,33-69,78
+packages/desktop-client/src/components/settings/Currency.tsx
+  s_3b573df4c40cff::t_3516ab09ae07c4 2,12-13,25,69,74,117-119,142-146,148-190
+packages/desktop-client/src/components/settings/Encryption.tsx
+  s_3b573df4c40cff::t_841b1484023337 2,5,15,18,22,26-30,33-36,41-65,67-76,79-96
+packages/desktop-client/src/components/settings/Experimental.tsx
+  s_3b573df4c40cff::t_48c4c06f1a2395 2,6,20-21,30-32,42-44,48,51-69,71-80,82-116,157,159-170,172-177,182,184-187,193-203,205-207,209,211-301
+packages/desktop-client/src/components/settings/Export.tsx
+  s_3b573df4c40cff::t_5b8f2a4fa907e1 12,48-50,52-61,63-64,66-67,70-74,76-93,95-96,99-100
+packages/desktop-client/src/components/settings/Format.tsx
+  s_3b573df4c40cff::t_d406554ac67565 18-19,52-54,56-57,59-114
+packages/desktop-client/src/components/settings/LanguageSettings.tsx
+  s_3b573df4c40cff::t_01029292d72ab4 13-14,41-94
+packages/desktop-client/src/components/settings/RepairTransactions.tsx
+  s_3b573df4c40cff::t_d17000db006fcb 6,8,12,117,132-146,149-184,186-188
+packages/desktop-client/src/components/settings/Reset.tsx
+  s_3b573df4c40cff::t_a80d4ea25a6487 2,11,14,24-35,40,45,57-60,62-74,78
+packages/desktop-client/src/components/settings/SettingsBackButton.tsx
+  s_3b573df4c40cff::t_99e154c9302868 1-8
+packages/desktop-client/src/components/settings/SettingsGroup.tsx
+  s_3b573df4c40cff::t_d87a95268d05f0 1-5,9-12,15-19,21-50
+packages/desktop-client/src/components/settings/SettingsNav.test.tsx
+  s_3b573df4c40cff::t_6c4ce800598be2 1-105
+packages/desktop-client/src/components/settings/SettingsNav.tsx
+  s_3b573df4c40cff::t_7021554ea6a3cc 1-76
+packages/desktop-client/src/components/settings/SettingsRow.tsx
+  s_3b573df4c40cff::t_c6455e87764a23 1-82
+packages/desktop-client/src/components/settings/SidebarMenuListItem.tsx
+  s_3b573df4c40cff::t_4234bd7362853b 1-113
+packages/desktop-client/src/components/settings/SidebarSettings.tsx
+  s_3b573df4c40cff::t_8622f8193865c8 1-122
+packages/desktop-client/src/components/settings/ThemeInstaller.tsx
+  s_3b573df4c40cff::t_c00deed58fe121 1,13,58-60,216,219,444,447
+packages/desktop-client/src/components/settings/Themes.tsx
+  s_3b573df4c40cff::t_37a0c226d75ace 9,27-28,193-218,220-258,260-275,277-283,285-303
+packages/desktop-client/src/components/settings/UI.tsx
+  s_3b573df4c40cff::t_b80f8954200efa 1,20,24-25
+packages/desktop-client/src/components/settings/index.tsx
+  s_3b573df4c40cff::t_949ea0dd0a1c31 4,9,12,22-23,41-45,49-50,53,62-64,66-67,69-93,95-96,98-110,114-122,129,131-137,142,144-146,154,157-175,179-218,220,223-271,273-298,300-329,346-348,351,354-357,360-363
+packages/desktop-client/src/components/sidebar/PrimaryButtons.tsx
+  s_3b573df4c40cff::t_c7c1a8bb1db034 1,4,7,10-11,15-16,20-28
+packages/desktop-client/src/components/sidebar/SidebarMenuRoute.tsx
+  s_3b573df4c40cff::t_373cf4fefa2ba1 1-56
+packages/desktop-client/src/components/sidebar/redesign/AccountGroupHeader.tsx
+  s_3b573df4c40cff::t_57a4b5ce5b4d35 1-7,17-20,32,35,37,39-40,45,47-48,54,56-57,61-63,67,69,98-99,102-106,108,110-113,115-197
+packages/desktop-client/src/components/sidebar/redesign/AccountRow.tsx
+  s_3b573df4c40cff::t_6a9c7ef2d1e3ea 1-2,4,14,26,30-31,46,50-54,65,67,116-146,148-205,208-213
+packages/desktop-client/src/components/sidebar/redesign/AccountsSection.tsx
+  s_3b573df4c40cff::t_e532f6e2da5650 69,84,99
+packages/desktop-client/src/components/sidebar/redesign/ClosedSection.tsx
+  s_3b573df4c40cff::t_896c3f71a499ca 1,11,20,27,29-30,50,52,65-71
+packages/desktop-client/src/components/sidebar/redesign/DragHandle.tsx
+  s_3b573df4c40cff::t_648d4628d85bbd 1-36
+packages/desktop-client/src/components/sidebar/redesign/PrimaryNav.tsx
+  s_3b573df4c40cff::t_4927ccd4a52a06 4-6,11-12,22-29
+packages/desktop-client/src/components/sidebar/redesign/SideGroup.tsx
+  s_3b573df4c40cff::t_d3d60d7f9d2f86 13,33,47,114-124
+packages/desktop-client/src/components/sidebar/redesign/SidebarBudgetName.tsx
+  s_3b573df4c40cff::t_085faf04e09828 4-5,12-13,15,21-29,33-39,41-42,44-48,52-139
+packages/desktop-client/src/components/sidebar/redesign/SidebarHeader.tsx
+  s_3b573df4c40cff::t_540da85170e7ee 1,3,5,7,10,12,14,16,28-31,47-83,85
+packages/desktop-client/src/components/sidebar/redesign/accountTreeMoves.test.ts
+  s_3b573df4c40cff::t_5318e09ad9ce1b 1-224
+packages/desktop-client/src/components/sidebar/redesign/accountTreeMoves.ts
+  s_3b573df4c40cff::t_41ffca48ff5dba 1-114
+packages/desktop-client/src/components/sidebar/redesign/styles.ts
+  s_3b573df4c40cff::t_aae460cc8c4565 3,15-20
+packages/desktop-client/src/components/sidebar/redesign/treeKeys.ts
+  s_3b573df4c40cff::t_aedce763920b6d 1-29
+packages/desktop-client/src/components/sidebar/redesign/useAccountTreeDragAndDrop.tsx
+  s_3b573df4c40cff::t_c3f44caf00a3fc 1-223
+packages/desktop-client/src/components/sidebar/sidebarMenu.test.ts
+  s_3b573df4c40cff::t_cf30f7b7ca1c0c 1-161
+packages/desktop-client/src/components/sidebar/sidebarMenu.ts
+  s_3b573df4c40cff::t_de950f2fccbc5d 1-143
+packages/desktop-client/src/components/sidebar/useSidebarMenuItemDetails.ts
+  s_3b573df4c40cff::t_561a66696eed66 1-38
+packages/desktop-client/src/components/sort.tsx
+  s_3b573df4c40cff::t_487519a26913fa 3,46,48,74-88
+packages/desktop-client/src/components/table.tsx
+  s_3b573df4c40cff::t_6925af63de7bfe 1050-1058
+packages/desktop-client/src/components/tags/ManageTagsPage.tsx
+  s_3b573df4c40cff::t_a5ad01359f8c1b 4-7,13-17,20-27
+packages/desktop-client/src/components/tour/steps.test.ts
+  s_3b573df4c40cff::t_26e7d42cb2726a 1,43-118
+packages/desktop-client/src/components/tour/steps.tsx
+  s_3b573df4c40cff::t_f449b761acb403 17-31,33-39,42,193-196
+packages/desktop-client/src/components/transactions/TransactionList.tsx
+  s_3b573df4c40cff::t_4a5c2704207d6f 18,39-40,269,286-291,299
+packages/desktop-client/src/components/transactions/TransactionsTable.test.tsx
+  s_3b573df4c40cff::t_f6527b1ae289db 167-169,1030,1145-1247,1597-1627
+packages/desktop-client/src/components/transactions/TransactionsTable.tsx
+  s_3b573df4c40cff::t_8a82c5aa66a1e1 163,166,700,1418-1431,1434,2073-2077,2637,3048,3235,3315-3322,3334,3365,3418,3497-3500,3504,3507,3510-3524,3651,3656,3658,3666,3668,3673,3702-3713,3717,3733,3736-3738,3740-3741,3743-3746,3748-3752,3815,3822-3827,3845,3872,4002,4006
+packages/desktop-client/src/components/transactions/applyRulesToTransaction.test.ts
+  s_3b573df4c40cff::t_7611c38e843ccf 1-188
+packages/desktop-client/src/components/transactions/applyRulesToTransaction.ts
+  s_3b573df4c40cff::t_25c421d1134b19 1-94
+packages/desktop-client/src/components/transactions/table/utils.test.ts
+  s_3b573df4c40cff::t_95819fed23d169 68-90
+packages/desktop-client/src/components/transactions/table/utils.ts
+  s_3b573df4c40cff::t_3f403daf5d393f 121-126,129-136,141,143-147,179-223
+packages/desktop-client/src/components/util/FinancialInput.tsx
+  s_3b573df4c40cff::t_6d05598866a1a1 1-2,38-39,49-53,65-76,80-81,85-101,105-109,116-118,162-163
+packages/desktop-client/src/components/util/GenericInput.tsx
+  s_3b573df4c40cff::t_2d9b585fade85e 173-175
+packages/desktop-client/src/data/customThemeCatalog.json
+  s_3b573df4c40cff::t_6d6b894b5ea7bb 280-283,294,296
+packages/desktop-client/src/data/news.json
+  s_3b573df4c40cff::t_b80604717aaa4d 4-13
+packages/desktop-client/src/hooks/useDeleteCategoryFlow.ts
+  s_3b573df4c40cff::t_7276dce86ab265 1-66
+packages/desktop-client/src/hooks/useIsInViewport.test.ts
+  s_3b573df4c40cff::t_910f41c847c6a9 1-99
+packages/desktop-client/src/hooks/useIsInViewport.ts
+  s_3b573df4c40cff::t_7e277be9640224 1,4-8,10,14,18-21,26
+packages/desktop-client/src/hooks/useNewsFeed.test.ts
+  s_3b573df4c40cff::t_07178614ace340 77-120
+packages/desktop-client/src/hooks/useNewsFeed.ts
+  s_3b573df4c40cff::t_0c07c813626f1f 3,12-26,54-55
+packages/desktop-client/src/hooks/useQuery.ts
+  s_3b573df4c40cff::t_36218482086e78 1,21-29,67-73
+packages/desktop-client/src/hooks/useReducedMotion.ts
+  s_3b573df4c40cff::t_e2b1cf35b8d081 7-12,14-16,23
+packages/desktop-client/src/hooks/useRefEventListener.ts
+  s_3b573df4c40cff::t_8b027e31f6f4b6 1,21-27,30-40,49-52,54-58,60
+packages/desktop-client/src/hooks/useScrollListener.tsx
+  s_3b573df4c40cff::t_4444a2539fe929 161,194
+packages/desktop-client/src/hooks/useSidebarMenu.ts
+  s_3b573df4c40cff::t_357d65bf195b0d 1,3-64
+packages/desktop-client/src/hooks/useTransactionBatchActions.ts
+  s_3b573df4c40cff::t_47eea47172d59c 539-558,563,569
+packages/desktop-client/src/hooks/useTransactions.test.ts
+  s_3b573df4c40cff::t_a6b252aa1b4b00 1-40
+packages/desktop-client/src/hooks/useTransactionsSearch.ts
+  s_3b573df4c40cff::t_012d8124fd7c85 47
+packages/desktop-client/src/modals/modalsSlice.ts
+  s_3b573df4c40cff::t_142ac39fb46d4d 319-320,382-385,425-428,740
+packages/desktop-client/src/news/changelog.ts
+  s_3b573df4c40cff::t_03215636921485 1-41
+packages/desktop-client/src/news/fetchNewsFeed.test.ts
+  s_3b573df4c40cff::t_ee4e19bec5fbb0 4-8,71,77,82
+packages/desktop-client/src/news/fetchNewsFeed.ts
+  s_3b573df4c40cff::t_13f9fd05477866 9-14,87
+packages/desktop-client/src/prefs/prefsSlice.test.ts
+  s_3b573df4c40cff::t_cc448cef91c51c 1-75
+packages/desktop-client/src/prefs/prefsSlice.ts
+  s_3b573df4c40cff::t_3d681e7d85b37f 37-38,50-59,95-101,125
+packages/desktop-client/src/style/customThemes.test.ts
+  s_3b573df4c40cff::t_2ec9f15e223bf1 10,12,1855-1928
+packages/desktop-client/src/style/customThemes.ts
+  s_3b573df4c40cff::t_47e42afd367ca3 655-675
+packages/desktop-client/src/style/theme.tsx
+  s_3b573df4c40cff::t_5c528861b2c091 7,16-17,108-109,112,114-115,119-128,134,151-155,180-183
+packages/desktop-client/src/sync-events.ts
+  s_3b573df4c40cff::t_6bf3e6ecf60bbd 304,328-330
+packages/desktop-client/src/util/error.ts
+  s_3b573df4c40cff::t_3b3eb9cc4b3d80 121-124
+packages/desktop-client/src/util/versions.test.ts
+  s_3b573df4c40cff::t_8892bda15ab316 3,17-73
+packages/desktop-client/src/util/versions.ts
+  s_3b573df4c40cff::t_0b6b6f1edd515f 21-52
+packages/desktop-client/vite.config.mts
+  s_3b573df4c40cff::t_7963bb7ebf278f 3,101-117,145-148,170-171,173,185,187,275-284
+packages/desktop-electron/beforePackHook.ts
+  s_3b573df4c40cff::t_9a9b61ee396f37 32-34
+packages/desktop-electron/e2e/fixtures.ts
+  s_3b573df4c40cff::t_2c1495d1fb8b6b 19,25,27-31,38-42
+packages/desktop-electron/e2e/navigation-security.test.ts
+  s_3b573df4c40cff::t_d4c5e2df2bd249 1-107
+packages/desktop-electron/index.ts
+  s_3b573df4c40cff::t_44236421b6e5c2 36,40,98,165-180,182-184,186-203,206-216,233-241,252-253,255,257-261,264-288,311-314,317,581,592-593,602-603,611-621,840,844
+packages/desktop-electron/package.json
+  s_3b573df4c40cff::t_0052b3828c0406 3,12,20,31,33-34,40,44,54
+packages/desktop-electron/security.ts
+  s_3b573df4c40cff::t_38922e99778b32 16-17
+packages/desktop-electron/server.ts
+  s_3b573df4c40cff::t_8758f29015d052 1,112-117
+packages/desktop-electron/tests/external-links.test.ts
+  s_3b573df4c40cff::t_8737c5fd3f0943 1-96
+packages/desktop-electron/tests/trusted-url.test.ts
+  s_3b573df4c40cff::t_1267ae69269b2e 1-30
+packages/desktop-electron/trusted-url.ts
+  s_3b573df4c40cff::t_b469446ed09882 1-14
+packages/desktop-electron/vitest.config.ts
+  s_3b573df4c40cff::t_6c78c555184854 1-20
+packages/docs/blog/2026-10-01-release-26-10-0.md
+  s_3b573df4c40cff::t_703a605fe45851 1-108
+packages/docs/docs-sidebar.js
+  s_3b573df4c40cff::t_b89bba2e68a125 220
+packages/docs/docs/accounts/index.md
+  s_3b573df4c40cff::t_f987c0173c63ad 17,19,23,25-35,47,67,71,73-76
+packages/docs/docs/accounts/reconciliation.md
+  s_3b573df4c40cff::t_0ecb5fb73515ea 9,11,17,27,31,35,45,47,51,55,63,67,71,73
+packages/docs/docs/advanced/bank-sync.md
+  s_3b573df4c40cff::t_8ad26dd3b4dad6 24-48,55
+packages/docs/docs/advanced/bank-sync/gocardless.md
+  s_3b573df4c40cff::t_27427357da21e2 36,38,40,42,44-48,53,55,57,59,61,63,67,71,79,83,87,89,91-93,99,101
+packages/docs/docs/advanced/bank-sync/pluggyai.md
+  s_3b573df4c40cff::t_01b64df1ed6889 46,48,50,52-56,61,63,70,72,74,76,78,80,83,85
+packages/docs/docs/advanced/bank-sync/simplefin.md
+  s_3b573df4c40cff::t_48a89906bd823e 36,38,40,42,44-48,53,55,57,59,61,63,65,68,70,74,76
+packages/docs/docs/advanced/restart.md
+  s_3b573df4c40cff::t_803a8d577bc1fc 17-19,21
+packages/docs/docs/api/reference.md
+  s_3b573df4c40cff::t_6a5a1099e80b85 87-88,792-829,898-900
+packages/docs/docs/backup-restore/backup.md
+  s_3b573df4c40cff::t_3a7454e42c7cf9 5,13,15,17,19
+packages/docs/docs/backup-restore/restore.md
+  s_3b573df4c40cff::t_3726e9e5ad0af6 13,17,21,25,30,38
+packages/docs/docs/budgeting/categories.md
+  s_3b573df4c40cff::t_fb0a9fbd352c16 10,12,14,16,20,22,30,34,42,46,50,54,58,66-68,72,78,82,92,96
+packages/docs/docs/budgeting/credit-cards/carrying-debt.md
+  s_3b573df4c40cff::t_47d90dd5fc9913 19-21,23-27,32,34,105,107-109,113,130,138,140,144,146-148,152,169,188,196,202
+packages/docs/docs/budgeting/credit-cards/paying-in-full.md
+  s_3b573df4c40cff::t_97ef6bee0d672e 9,17,19,25,29,31,39,41,59,61,67,69,71,77,81-82,84,86,98,114,120
+packages/docs/docs/budgeting/index.md
+  s_3b573df4c40cff::t_b29a5ce53c532b 47,62,112,118,123
+packages/docs/docs/budgeting/joint-accounts.md
+  s_3b573df4c40cff::t_bdff210515ada2 122,130,136,144-147,153-156
+packages/docs/docs/budgeting/multi-currency.md
+  s_3b573df4c40cff::t_85e51be6085f45 11,25,35,46,48,50-56,61,82,89,93
+packages/docs/docs/budgeting/returns-and-reimbursements.md
+  s_3b573df4c40cff::t_841b58ace0d613 9,13,17,21,47,49,53
+packages/docs/docs/budgeting/rules/custom.md
+  s_3b573df4c40cff::t_35d1597e608df1 9,15,21,30
+packages/docs/docs/community-repos.md
+  s_3b573df4c40cff::t_d365e70a95a85d 24,74-84
+packages/docs/docs/config/multi-user.md
+  s_3b573df4c40cff::t_46dc4747bdc10f 15,19-24,43,49-53
+packages/docs/docs/config/oauth-auth.md
+  s_3b573df4c40cff::t_0a7696f8bf67fc 74,82,108,113,120
+packages/docs/docs/contributing/index.md
+  s_3b573df4c40cff::t_fe23db3eeb00ba 35
+packages/docs/docs/custom-themes.md
+  s_3b573df4c40cff::t_5f852fc3090da9 18,20,23,27-31
+packages/docs/docs/experimental/balance-forecast-report.md
+  s_3b573df4c40cff::t_af8e37f9b5cfc6 9
+packages/docs/docs/experimental/budget-analysis-report.md
+  s_3b573df4c40cff::t_fec3ee827a64d1 10
+packages/docs/docs/experimental/budget-automation.md
+  s_3b573df4c40cff::t_234928ddbfa098 32,34,42,46-48,54,62,83,93,101,105,111,116,131,147,167,178,182,192,196,202,241,245,249,257,274,278,282,287,293,305,309,311,319,325,329,331,333,345,357,361,371,381,391,397,409
+packages/docs/docs/experimental/formulas.md
+  s_3b573df4c40cff::t_4d8ac018b3d3f3 22,30,35,50-186,233,246,318,329,331,333-334,349-350,362,378
+packages/docs/docs/experimental/goal-templates.md
+  s_3b573df4c40cff::t_d52b54840e4167 33,41,58,64,71,86
+packages/docs/docs/experimental/index.md
+  s_3b573df4c40cff::t_3f00b57fb17ce3 12,14,16,18
+packages/docs/docs/experimental/monte-carlo-analysis.md
+  s_3b573df4c40cff::t_addfdecaf080a6 3,17,43,45,51,54,57,64,82,92,111,126,128-129,134,140,189,199,211,224-234,238,244,246,248,259
+packages/docs/docs/experimental/monthly-cleanup.md
+  s_3b573df4c40cff::t_260aa4653ea343 7,41
+packages/docs/docs/experimental/rule-templating.md
+  s_3b573df4c40cff::t_1f18fd1469b655 29,33
+packages/docs/docs/experimental/sankey-report.md
+  s_3b573df4c40cff::t_af98bb5305b6b7 11
+packages/docs/docs/getting-started/starting-fresh.md
+  s_3b573df4c40cff::t_78c4e213e3ce37 203,208,212
+packages/docs/docs/getting-started/tips-tricks.md
+  s_3b573df4c40cff::t_11a8644cf06b6d 25,96,116,120,142,152
+packages/docs/docs/getting-started/tracking-budget.md
+  s_3b573df4c40cff::t_0538645804dc9c 16,22,39-42,46,50,54,60,85
+packages/docs/docs/install/desktop-app.md
+  s_3b573df4c40cff::t_6eb8fb4f94faa7 25,27
+packages/docs/docs/install/fly.md
+  s_3b573df4c40cff::t_44b1c029195bda 136,138,140,144,170-172
+packages/docs/docs/install/index.md
+  s_3b573df4c40cff::t_819a3c5f62ecb4 75,77
+packages/docs/docs/install/pikapods.md
+  s_3b573df4c40cff::t_ed4eacbc923d24 109
+packages/docs/docs/migration/nynab.md
+  s_3b573df4c40cff::t_d06dd122866498 179,182,184,186
+packages/docs/docs/notifications.md
+  s_3b573df4c40cff::t_1f95d42af67e98 11,15,18-20
+packages/docs/docs/releases.md
+  s_3b573df4c40cff::t_71f0eaae23d1af 3-102
+packages/docs/docs/reports/custom-reports.md
+  s_3b573df4c40cff::t_0d54bbc191ea2d 11,25-30,54-59,63,65,69,82
+packages/docs/docs/reports/index.md
+  s_3b573df4c40cff::t_0ac8cfbde91271 13,35,41,50,54,60,66,72,78
+packages/docs/docs/schedules.md
+  s_3b573df4c40cff::t_ba9fa68e9e84da 11,40,44,46-47,49,55,71,78,88,99,128,130,144,148,154,162,185,192,196
+packages/docs/docs/settings/index.md
+  s_3b573df4c40cff::t_a38534e847cf5d 5,7,11-12,19-22,27,29-32,38,44,50,61,67,71,78,84,92,98,105
+packages/docs/docs/tour/accounts.md
+  s_3b573df4c40cff::t_0636fe1e256c3a 5,11,13-16,22,32-36,42,46-49
+packages/docs/docs/tour/budget.md
+  s_3b573df4c40cff::t_e2507df702f67d 5,11,15,21-25,34,38,46,48-50
+packages/docs/docs/tour/payees.md
+  s_3b573df4c40cff::t_fb604007df57cb 9,17
+packages/docs/docs/tour/reports.md
+  s_3b573df4c40cff::t_eb9264cf05a4cc 7,15,23,25
+packages/docs/docs/tour/rules.md
+  s_3b573df4c40cff::t_60f90671dcc3f1 9
+packages/docs/docs/tour/schedules.md
+  s_3b573df4c40cff::t_2ab07470e4a6d2 14
+packages/docs/docs/tour/user-interface.md
+  s_3b573df4c40cff::t_0889e2f618a7d7 5,7,9-11,15,17-21,25,27,29-31,33
+packages/docs/docs/transactions/bulk-editing.md
+  s_3b573df4c40cff::t_2aef31f6707b79 21,25,29,31,33,35,39,43,47,53
+packages/docs/docs/transactions/filters.md
+  s_3b573df4c40cff::t_e71d2c684073ca 22,30,32,38,40,42,44,48,52,54,60,64,68,72,84
+packages/docs/docs/transactions/importing.md
+  s_3b573df4c40cff::t_875d71225bc92a 33,36
+packages/docs/docs/transactions/merging.md
+  s_3b573df4c40cff::t_de81821d6b9f43 5
+packages/docs/docs/transactions/payee-locations.md
+  s_3b573df4c40cff::t_105ae1a5da232f 17,31,43,45
+packages/docs/docs/transactions/payees.md
+  s_3b573df4c40cff::t_629c94424a316a 9,44,48,52,56,64
+packages/docs/docs/transactions/split-transactions.md
+  s_3b573df4c40cff::t_b164fe94cc1546 11-14
+packages/docs/docs/transactions/tags.md
+  s_3b573df4c40cff::t_0dbb966ed96d2b 14,16,22,24,26,30,32,36
+packages/docs/docs/transactions/transfers.md
+  s_3b573df4c40cff::t_0a6e9b49f33a6f 7,13,33,37,63
+packages/docs/docs/troubleshooting/server.md
+  s_3b573df4c40cff::t_1eab7b82e37f97 8-34
+packages/docs/package.json
+  s_3b573df4c40cff::t_d0a706574321a0 24,26,28-29,36
+packages/docs/src/components/ExperimentalFeatureWarning.tsx
+  s_3b573df4c40cff::t_b99cec6f8a2795 38-39
+packages/eslint-plugin-actual/package.json
+  s_3b573df4c40cff::t_ef8d3f22ad4490 11,13-14
+packages/loot-core/package.json
+  s_3b573df4c40cff::t_c237d1a89657a9 3,203-205,207,209-211,213,219,221,229-230,235,240,242-243
+packages/loot-core/src/mocks/files/utf-8-bom.csv
+  s_3b573df4c40cff::t_9146e8a0b99e98 1-3
+packages/loot-core/src/mocks/files/windows-1252-euro.csv
+  s_3b573df4c40cff::t_f0110aedab1287 1-2
+packages/loot-core/src/mocks/files/windows-1252.csv
+  s_3b573df4c40cff::t_235022386a09d9 1-3
+packages/loot-core/src/platform/server/asyncStorage/index.electron.test.ts
+  s_3b573df4c40cff::t_91bd8087e60d52 75-333
+packages/loot-core/src/platform/server/asyncStorage/index.electron.ts
+  s_3b573df4c40cff::t_2af8e2d656a7d1 24-25,27-35,39,41-67,70,80,84,95,100,104-116,141-142,144,146-151,158-189
+packages/loot-core/src/platform/server/sqlite/index.electron.ts
+  s_3b573df4c40cff::t_17a2be8c0c4bce 9,75-91
+packages/loot-core/src/platform/server/sqlite/index.test.ts
+  s_3b573df4c40cff::t_0caae0aacb30db 88-127,196-232
+packages/loot-core/src/platform/server/sqlite/index.ts
+  s_3b573df4c40cff::t_b8381999f33f6b 8,113-131,134,137-143,153-166,173
+packages/loot-core/src/platform/server/sqlite/regexp.test.ts
+  s_3b573df4c40cff::t_acdb25d4de5176 1-24
+packages/loot-core/src/platform/server/sqlite/regexp.ts
+  s_3b573df4c40cff::t_63e9c8f880b95b 1-12
+packages/loot-core/src/server/account-groups/app.test.ts
+  s_3b573df4c40cff::t_0b9a1006448d2e 166-239
+packages/loot-core/src/server/accounts/app-bank-sync.test.ts
+  s_3b573df4c40cff::t_38e4f89c19ca1d 277-303
+packages/loot-core/src/server/accounts/app.ts
+  s_3b573df4c40cff::t_e93e92b2967e84 29,714,718,720,1420-1428
+packages/loot-core/src/server/accounts/sync.test.ts
+  s_3b573df4c40cff::t_e8c02e0de371aa 17,586-615,672-887,990-991,999-1004,1205-1256
+packages/loot-core/src/server/accounts/sync.ts
+  s_3b573df4c40cff::t_3aab731a4ad6f2 361,373,671-677,806-832,855,893-896,916,928,949,961,972-974,995-998,1015-1018,1278-1283
+packages/loot-core/src/server/api.ts
+  s_3b573df4c40cff::t_224c5fe0e6dc8f 24,51,125-159,292,972-996
+packages/loot-core/src/server/aql/compiler.ts
+  s_3b573df4c40cff::t_2f9e3a0fe5b49b 741-744
+packages/loot-core/src/server/auth/app.ts
+  s_3b573df4c40cff::t_31dfe7c2c8bb3c 207-213,227,293-303
+packages/loot-core/src/server/budget/base.ts
+  s_3b573df4c40cff::t_c77a8cc64da419 41-61,94-132,355-356
+packages/loot-core/src/server/budget/schedule-template.test.ts
+  s_3b573df4c40cff::t_f9c3baa9d96900 6,8,630-668
+packages/loot-core/src/server/budget/schedule-template.ts
+  s_3b573df4c40cff::t_0b1cb2cf15b61a 345-356
+packages/loot-core/src/server/budgetfiles/app.ts
+  s_3b573df4c40cff::t_811b66a2f524f7 149-188,222,225,229-232
+packages/loot-core/src/server/cloud-import.test.ts
+  s_3b573df4c40cff::t_1587f3848e65ee 1-234
+packages/loot-core/src/server/cloud-storage.ts
+  s_3b573df4c40cff::t_613774c2f46715 212,256-267,270,276,453,499-501,517
+packages/loot-core/src/server/db/index.ts
+  s_3b573df4c40cff::t_5208e30e790de8 165-169,764,787-793
+packages/loot-core/src/server/db/types/index.ts
+  s_3b573df4c40cff::t_d90153916640ae 37
+packages/loot-core/src/server/importers/ynab4-types.ts
+  s_3b573df4c40cff::t_c7aff779dd63b3 72,81
+packages/loot-core/src/server/importers/ynab4.test.ts
+  s_3b573df4c40cff::t_4462953e017574 1-265
+packages/loot-core/src/server/importers/ynab4.ts
+  s_3b573df4c40cff::t_1b0dea0eaaa77e 141,217,300-325,336-339
+packages/loot-core/src/server/main.test.ts
+  s_3b573df4c40cff::t_c8b440f24d949e 284-354
+packages/loot-core/src/server/migrate/additive-migrations.test.ts
+  s_3b573df4c40cff::t_7a38e744aa26b0 12,119-121
+packages/loot-core/src/server/migrate/migrations.test.ts
+  s_3b573df4c40cff::t_315b74e7339aa3 10,32-34,36-42
+packages/loot-core/src/server/reports/app.test.ts
+  s_3b573df4c40cff::t_6f77c782c724b2 1-180
+packages/loot-core/src/server/reports/app.ts
+  s_3b573df4c40cff::t_a1773901bb6403 28-43,48-49,59,73,100
+packages/loot-core/src/server/rules/action.ts
+  s_3b573df4c40cff::t_1fe38f072b0d38 15,37-44,124,231,302-307,319-325,330,355,358-360,363-368,370
+packages/loot-core/src/server/rules/formula-action-integration.test.ts
+  s_3b573df4c40cff::t_281e9e0fb11132 53,71,136,260,289,320,365,512,633,662,690,720,753,786,851,885,1110
+packages/loot-core/src/server/rules/formula-action.test.ts
+  s_3b573df4c40cff::t_dd9a6fa19a3cf8 28,34,36-59,152,168,174,201-220,268-270
+packages/loot-core/src/server/rules/index.test.ts
+  s_3b573df4c40cff::t_77e41e45f82dc7 946,961
+packages/loot-core/src/server/rules/split-parent-context.test.ts
+  s_3b573df4c40cff::t_1335d9c9c62cbf 46-47
+packages/loot-core/src/server/schedules/app.test.ts
+  s_3b573df4c40cff::t_0031c0ffdef91e 7,641-761,1265-1328
+packages/loot-core/src/server/schedules/app.ts
+  s_3b573df4c40cff::t_d870cfc4dd12f8 25,212-225,255,318-334,352,389-390,485-490
+packages/loot-core/src/server/schedules/occurrences.test.ts
+  s_3b573df4c40cff::t_9ddab0952fc271 1-300
+packages/loot-core/src/server/schedules/occurrences.ts
+  s_3b573df4c40cff::t_be3e4cf21c432d 1-64
+packages/loot-core/src/server/sheet.ts
+  s_3b573df4c40cff::t_bec1565201ad79 23,29-32,34-42,49,143,202-208,239-254,257-265,267-270
+packages/loot-core/src/server/spreadsheet/graph-data-structure.ts
+  s_3b573df4c40cff::t_1ce1dd4c65015d 79-81,89-91,95-114,117-119,121-122,127-131,150,152-153
+packages/loot-core/src/server/spreadsheet/spreadsheet.ts
+  s_3b573df4c40cff::t_a42a31fa5cb9a2 351-353,355-356
+packages/loot-core/src/server/sync/index.ts
+  s_3b573df4c40cff::t_76cd97d35686a4 439-443,545-546,577-578,581-599
+packages/loot-core/src/server/sync/sync.test.ts
+  s_3b573df4c40cff::t_152e8dd1173438 8,409-456
+packages/loot-core/src/server/tags/app.test.ts
+  s_3b573df4c40cff::t_ec4b0d407653e6 105-131
+packages/loot-core/src/server/tags/app.ts
+  s_3b573df4c40cff::t_a8eef46c45f70d 6,157
+packages/loot-core/src/server/transactions/import/parse-file.test.ts
+  s_3b573df4c40cff::t_4154bb7fb139ea 266-386
+packages/loot-core/src/server/transactions/import/parse-file.ts
+  s_3b573df4c40cff::t_cde36227bb337a 57-81,101,141-152
+packages/loot-core/src/server/transactions/transaction-rules.test.ts
+  s_3b573df4c40cff::t_eda0bb63a466e2 6,409-476,739-878,1065,1129,1141,1153,1168,1180,1192,1213,1236,1247,1258,1282,1293,1304,1318-1367
+packages/loot-core/src/server/transactions/transaction-rules.ts
+  s_3b573df4c40cff::t_611643604a6012 42,321-322,345-362,451-457,703,713,1029-1036,1062-1065
+packages/loot-core/src/shared/async.test.ts
+  s_3b573df4c40cff::t_a76b5e1ffc0bf4 84,91,96
+packages/loot-core/src/shared/currencies.ts
+  s_3b573df4c40cff::t_c1bbb54b461743 27,31,71,76
+packages/loot-core/src/shared/errors.ts
+  s_3b573df4c40cff::t_ee1ce654a3b5a3 111-112
+packages/loot-core/src/shared/tags.ts
+  s_3b573df4c40cff::t_6e594ac8a01f69 1-2,33-75
+packages/loot-core/src/shared/util.test.ts
+  s_3b573df4c40cff::t_c0b21262b56c4b 86-100
+packages/loot-core/src/shared/util.ts
+  s_3b573df4c40cff::t_bc31de9b28258a 591-594
+packages/loot-core/src/types/api-handlers.ts
+  s_3b573df4c40cff::t_6f8ba3ec3f8073 307-314
+packages/loot-core/src/types/models/account.ts
+  s_3b573df4c40cff::t_f7453dc0e0875c 40-41
+packages/loot-core/src/types/models/dashboard.ts
+  s_3b573df4c40cff::t_cb5bda4de92816 145,190-218,261-262,350-351
+packages/loot-core/src/types/models/reports.ts
+  s_3b573df4c40cff::t_258387fb4fc4ea 3-12,22,36,102,111,140,168
+packages/loot-core/src/types/models/rule.ts
+  s_3b573df4c40cff::t_44e2aa8b1978c6 1-2,56
+packages/loot-core/src/types/prefs.ts
+  s_3b573df4c40cff::t_1b5a5f130470b3 45-46,48-50,116-121
+packages/mobile-client/package.json
+  s_3b573df4c40cff::t_36a6e764b887f7 3,21,23
+packages/plugins-service/package.json
+  s_3b573df4c40cff::t_7a30442a9725d1 18,22
+packages/sync-server/docker/alpine.Dockerfile
+  s_3b573df4c40cff::t_e7e7ac84432f1a 20-26
+packages/sync-server/migrations/1694360000000-create-folders.ts
+  s_3b573df4c40cff::t_867d8902842e22 5,9,17,22
+packages/sync-server/package.json
+  s_3b573df4c40cff::t_bb0f7f40949e86 3,94,96,101-102,104,108-109,114,119,125,127-128
+packages/sync-server/src/accounts/openid.test.ts
+  s_3b573df4c40cff::t_1edcb334118a91 1-93
+packages/sync-server/src/accounts/openid.ts
+  s_3b573df4c40cff::t_515e8a2e7798fc 2,28-29,57-59,73-75,143-145,152-154,202-204,210-212,346-348,363-364
+packages/sync-server/src/accounts/password.js
+  s_3b573df4c40cff::t_8113fc597dc0d2 18,22-24,29,94-96,98-102,104-111,114-135,137-146,151-153,156,163-164,166,169-193
+packages/sync-server/src/accounts/password.test.js
+  s_3b573df4c40cff::t_8a9f4a9ff374fa 1,4,17-18,65-106,248-317
+packages/sync-server/src/app-account.js
+  s_3b573df4c40cff::t_d37c80d4169b28 6,17-21,136-146,168-178
+packages/sync-server/src/app-account.test.js
+  s_3b573df4c40cff::t_27738f6da7cb7d 5,135,151,167,179,184-217,453-492
+packages/sync-server/src/app-cors-proxy.js
+  s_3b573df4c40cff::t_c82e0f0caf0a1b 1,10-11,117-118,165-166
+packages/sync-server/src/app-cors-proxy.test.js
+  s_3b573df4c40cff::t_afd4ae6569fd1c 1-3,286,306-336,641
+packages/sync-server/src/app-enablebanking/app-enablebanking.ts
+  s_3b573df4c40cff::t_32b678d72c3ca7 6,28-29,64-77,82,91,95-100,148-149,181-182,239-247,268-269,271-275,347,386-387,527,547-551,586,616-617
+packages/sync-server/src/app-enablebanking/services/enablebanking-service.ts
+  s_3b573df4c40cff::t_f8e5380063d9b9 10-11,22-23,133-134,218-224,230-232,350,364-376,378-380,454
+packages/sync-server/src/app-enablebanking/services/tests/enablebanking-service.spec.ts
+  s_3b573df4c40cff::t_847bbe1fac81e0 499,510
+packages/sync-server/src/app-enablebanking/services/tests/normalization.spec.ts
+  s_3b573df4c40cff::t_8a18a0ffe80738 46-140
+packages/sync-server/src/app-enablebanking/tests/callback-logging.test.ts
+  s_3b573df4c40cff::t_c06f134d1b40fc 1-47
+packages/sync-server/src/app-enablebanking/tests/poll-auth.spec.ts
+  s_3b573df4c40cff::t_5e015bcf812dc1 24-31
+packages/sync-server/src/app-enablebanking/utils/errors.ts
+  s_3b573df4c40cff::t_8e1dd7d02ea663 3-4,25-30
+packages/sync-server/src/app-gocardless/app-gocardless.test.ts
+  s_3b573df4c40cff::t_c3a1b08444c67a 20,31,232-266
+packages/sync-server/src/app-gocardless/app-gocardless.ts
+  s_3b573df4c40cff::t_1ac1f6eeacdd7a 1,3,31-32,104-122,235,356-357,364-365
+packages/sync-server/src/app-gocardless/banks/commerzbank_cobadeff.ts
+  s_3b573df4c40cff::t_f7a4ff90c93fbe 44-54,56-62
+packages/sync-server/src/app-gocardless/banks/tests/commerzbank_cobadeff.spec.ts
+  s_3b573df4c40cff::t_3b6848181c6cf5 134-171
+packages/sync-server/src/app-gocardless/banks/tests/fixtures/commerzbank-hostile.mjs
+  s_3b573df4c40cff::t_236a3ce3c11e44 1-23
+packages/sync-server/src/app-gocardless/services/gocardless-api.ts
+  s_3b573df4c40cff::t_aaeba093f37af4 1-2,18-19,61-69,107,111,152-153,157-168
+packages/sync-server/src/app-gocardless/services/gocardless-service.ts
+  s_3b573df4c40cff::t_607ace71d3bdd0 1,45-46,345
+packages/sync-server/src/app-gocardless/util/handle-error.ts
+  s_fabaf9f69a8d46::t_78305a4d34df98 1,6-7,13-19
+packages/sync-server/src/app-pluggyai/pluggyai-service.js
+  s_3b573df4c40cff::t_5c98a651c0005c 1,6-7,90-91,105-106,142-143
+packages/sync-server/src/app-simplefin/app-simplefin.js
+  s_3b573df4c40cff::t_8fdf6c387cc9fc 1,12-13,65-68,302-303,484-485
+packages/sync-server/src/app-simplefin/app-simplefin.test.js
+  s_3b573df4c40cff::t_02692889196588 1-3,54-75
+packages/sync-server/src/app-simplefin/ssrf.test.ts
+  s_3b573df4c40cff::t_f4abd264b21f41 1-70
+packages/sync-server/src/app-sync.test.ts
+  s_3b573df4c40cff::t_19a33c51e9b6aa 479-506
+packages/sync-server/src/app-sync.ts
+  s_3b573df4c40cff::t_f529865e991399 318,324-330
+packages/sync-server/src/app-sync/errors.ts
+  s_3b573df4c40cff::t_fd92b7926b35a6 2-4,11-13
+packages/sync-server/src/app-sync/validation.ts
+  s_3b573df4c40cff::t_62290055bbcaa9 1-2,9-24,27,66-70
+packages/sync-server/src/app.ts
+  s_3b573df4c40cff::t_08ef1360e873f9 6,24-25,29-30
+packages/sync-server/src/migrations.test.ts
+  s_3b573df4c40cff::t_851c0bd8e4d54f 1-32
+packages/sync-server/src/migrations.ts
+  s_3b573df4c40cff::t_ec675f50975644 12,21-42,49
+packages/sync-server/src/services/secrets-service.js
+  s_3b573df4c40cff::t_796fe18a1b0e1a 44
+packages/sync-server/src/util/middlewares.test.ts
+  s_3b573df4c40cff::t_bf1673a453e51d 1-117
+packages/sync-server/src/util/middlewares.ts
+  s_3b573df4c40cff::t_325ea6543033c8 1,14-15,26,30-32,37-38,55-59,69
+packages/sync-server/src/util/ssrf.test.ts
+  s_3b573df4c40cff::t_d8ac496957f7dc 163-239
+packages/sync-server/src/util/ssrf.ts
+  s_3b573df4c40cff::t_c0b7105cef8e06 7,9-17,21,43-48,50,52-55,66
+upcoming-release-notes/8355.md
+  s_3b573df4c40cff::t_cebda790a2a144 1-6
+upcoming-release-notes/8783.md
+  s_3b573df4c40cff::t_152f978f3926c8 1-6
+upcoming-release-notes/8950.md
+  s_3b573df4c40cff::t_4ceb91f68b4b3a 1-6
+upcoming-release-notes/9205.md
+  s_3b573df4c40cff::t_17bed814eb9baa 1-6
+upcoming-release-notes/add-bangladeshi-taka-currency.md
+  s_3b573df4c40cff::t_1c50a204f811ac 1-6
+upcoming-release-notes/add-coderabbit-slop-detection.md
+  s_3b573df4c40cff::t_6804457b95fe7e 6
+upcoming-release-notes/add-component-size-tokens.md
+  s_3b573df4c40cff::t_e48372a8953a58 3,6
+upcoming-release-notes/add-tabedzki-main-contributor.md
+  s_3b573df4c40cff::t_676460aa3e64bb 3,6
+upcoming-release-notes/add-tzs-currency.md
+  s_3b573df4c40cff::t_b83ca7b0355561 3,6
+upcoming-release-notes/add-zar-currency.md
+  s_3b573df4c40cff::t_c21b3c122f4212 3,6
+upcoming-release-notes/api-get-schedule-dates.md
+  s_3b573df4c40cff::t_1b1a022c001bbd 1-6
+upcoming-release-notes/automatic-bank-sync.md
+  s_3b573df4c40cff::t_7732239ddcd2b4 3,6
+upcoming-release-notes/avoid-commerzbank-import-stalls.md
+  s_3b573df4c40cff::t_6a6825c60a3b1b 3,6
+upcoming-release-notes/bump-brace-expansion.md
+  s_3b573df4c40cff::t_cf50f318a3133e 1-6
+upcoming-release-notes/bump-dependencies-october.md
+  s_3b573df4c40cff::t_d518d9654f73eb 6
+upcoming-release-notes/calculator-hold-backspace.md
+  s_3b573df4c40cff::t_0f2874cffb516e 1-6
+upcoming-release-notes/clear-cache-on-reset.md
+  s_3b573df4c40cff::t_69bc1d9f850412 1-6
+upcoming-release-notes/close-stale-wip-prs.md
+  s_3b573df4c40cff::t_4d62fbbae4a099 1-6
+upcoming-release-notes/csv-import-unchecked-match.md
+  s_3b573df4c40cff::t_a5a9ae325817bf 1-6
+upcoming-release-notes/customize-sidebar-menu.md
+  s_3b573df4c40cff::t_6f635d4201a685 6
+upcoming-release-notes/dashboard-widgets-load-in-edit-mode.md
+  s_3b573df4c40cff::t_450359b73f2641 1-6
+upcoming-release-notes/disable-node-options-fuse.md
+  s_3b573df4c40cff::t_19142631e5f728 2,6
+upcoming-release-notes/docs-add-rauthy-tested-oidc.md
+  s_3b573df4c40cff::t_6c8f5677ebea86 1-6
+upcoming-release-notes/docs-community-repos-india2actual.md
+  s_3b573df4c40cff::t_60967182152bfa 1-6
+upcoming-release-notes/docs-community-repos-mcp-section.md
+  s_3b573df4c40cff::t_b8521ca17a430f 1-6
+upcoming-release-notes/docs-mash-install-option.md
+  s_3b573df4c40cff::t_141fe05bcda74f 1-6
+upcoming-release-notes/enable-react-compiler-lint-rules.md
+  s_3b573df4c40cff::t_b85656c4c53d0c 6
+upcoming-release-notes/exclude-callback-secrets-from-logs.md
+  s_3b573df4c40cff::t_559fe81b72b259 1-6
+upcoming-release-notes/experimental-feedback-links.md
+  s_3b573df4c40cff::t_bc7665c1539b85 1-6
+upcoming-release-notes/faster-browser-row-reads.md
+  s_3b573df4c40cff::t_dc76d6bb344930 1-6
+upcoming-release-notes/faster-reset-budget-cache.md
+  s_3b573df4c40cff::t_03bffc20df55b1 1-6
+upcoming-release-notes/faster-spreadsheet-cache-writes.md
+  s_3b573df4c40cff::t_a9e98d51b6cad4 1-6
+upcoming-release-notes/faster-spreadsheet-topological-sort.md
+  s_3b573df4c40cff::t_667507e55bfc82 1-6
+upcoming-release-notes/fix-age-of-money-privacy-alignment.md
+  s_3b573df4c40cff::t_be707c39953122 1-6
+upcoming-release-notes/fix-balance-forecast-privacy-alignment.md
+  s_3b573df4c40cff::t_966d817ef08a00 1-6
+upcoming-release-notes/fix-browser-memory-large-budgets.md
+  s_3b573df4c40cff::t_5d6c8cd7b409d2 3,6
+upcoming-release-notes/fix-custom-css-indicator-layout.md
+  s_3b573df4c40cff::t_89d8323a6ee0e8 3,6
+upcoming-release-notes/fix-desktop-startup-log-test.md
+  s_3b573df4c40cff::t_f0ca3c39e9ee9e 1-6
+upcoming-release-notes/fix-enable-banking-repeated-page.md
+  s_3b573df4c40cff::t_00fb381002c729 1-6
+upcoming-release-notes/fix-enablebanking-counterparty.md
+  s_3b573df4c40cff::t_f32ac3ac892f42 1-6
+upcoming-release-notes/fix-fuzzy-match-prefer-unlinked.md
+  s_3b573df4c40cff::t_88ee8676faba52 6
+upcoming-release-notes/fix-gocardless-invalid-token.md
+  s_3b573df4c40cff::t_77642aa774885e 6
+upcoming-release-notes/fix-live-spending-report-month.md
+  s_3b573df4c40cff::t_3df78b8ef672eb 3,6
+upcoming-release-notes/fix-mobile-category-group-drag.md
+  s_3b573df4c40cff::t_b92bf65c1d165d 1-6
+upcoming-release-notes/fix-mobile-category-learning.md
+  s_3b573df4c40cff::t_c551e047b6c8b8 3,6
+upcoming-release-notes/fix-mobile-clear-payee.md
+  s_3b573df4c40cff::t_193e60a08e991f 3,6
+upcoming-release-notes/fix-mobile-running-balance-hidden-reconciled.md
+  s_3b573df4c40cff::t_b8f3fb6d96368b 1-6
+upcoming-release-notes/fix-net-worth-privacy-alignment.md
+  s_3b573df4c40cff::t_84373e35548a05 1-6
+upcoming-release-notes/fix-number-input-focus-bounce.md
+  s_3b573df4c40cff::t_cf72fc219b4f19 6
+upcoming-release-notes/fix-running-balance-text-selection.md
+  s_3b573df4c40cff::t_40f812b5e845c6 1-6
+upcoming-release-notes/fix-schedule-auto-post-same-day.md
+  s_3b573df4c40cff::t_989f36fc0b24a1 1-6
+upcoming-release-notes/fix-schedule-next-date-after-weekend.md
+  s_3b573df4c40cff::t_499fda4a36cdac 1-6
+upcoming-release-notes/fix-schedule-template-long-day-interval.md
+  s_3b573df4c40cff::t_59c909c5601679 1-6
+upcoming-release-notes/fix-settings-theme-e2e-test.md
+  s_3b573df4c40cff::t_7132bd62fe4209 1-6
+upcoming-release-notes/fix-sidebar-rename-arrow-keys.md
+  s_3b573df4c40cff::t_6c7d0cb8d6f690 1-6
+upcoming-release-notes/fix-store-install-global-prefs.md
+  s_3b573df4c40cff::t_f2c75b4f0a3886 6
+upcoming-release-notes/fix-windows-loot-core-backend-build.md
+  s_3b573df4c40cff::t_5cd2bdd8c68d8b 1-6
+upcoming-release-notes/gocardless-missing-credentials-error.md
+  s_3b573df4c40cff::t_db198e3b9fe741 1-6
+upcoming-release-notes/gruvbox-catalog-preview.md
+  s_3b573df4c40cff::t_1e9e9542f4e7c9 2-3,6
+upcoming-release-notes/i18n-context-post-notes.md
+  s_3b573df4c40cff::t_af0f3c784731fa 1-6
+upcoming-release-notes/import-amount-currency-suffix.md
+  s_3b573df4c40cff::t_f779b9ce879fc2 1-6
+upcoming-release-notes/keep-cleared-fields-on-new-transactions.md
+  s_3b573df4c40cff::t_97cfae7f8144ce 3,6
+upcoming-release-notes/keep-mobile-payee-rule-filter.md
+  s_3b573df4c40cff::t_483362206cca07 1-6
+upcoming-release-notes/keep-split-focus-on-parent-payment.md
+  s_3b573df4c40cff::t_90f5e14ef1f410 1-6
+upcoming-release-notes/learn-category-oneof-rule.md
+  s_3b573df4c40cff::t_9b56ea1e6035b3 1-6
+upcoming-release-notes/migrate-app-sync-validation-to-typescript.md
+  s_3b573df4c40cff::t_eb8c083c0edfa1 1-6
+upcoming-release-notes/mobile-bottom-sheets.md
+  s_3b573df4c40cff::t_b073ac3d8587f0 6
+upcoming-release-notes/mobile-reconciled-toggle.md
+  s_3b573df4c40cff::t_e751f3016318e5 2,6
+upcoming-release-notes/monte-carlo-block-bootstrap.md
+  s_3b573df4c40cff::t_c8ca713d55dc1f 6
+upcoming-release-notes/monte-carlo-investment-phases.md
+  s_3b573df4c40cff::t_4d4f9f51c55ec6 6
+upcoming-release-notes/monte-carlo-pot-balances-chart.md
+  s_3b573df4c40cff::t_af7666ebd27f23 6
+upcoming-release-notes/notifications-page-readability.md
+  s_3b573df4c40cff::t_d60c1b72163709 6
+upcoming-release-notes/preserve-qif-import-categories.md
+  s_3b573df4c40cff::t_88b32e75d9f628 1-6
+upcoming-release-notes/protect-bank-synced-split-children.md
+  s_3b573df4c40cff::t_8a353f942ef972 1-6
+upcoming-release-notes/protect-csv-formulas-after-bom.md
+  s_3b573df4c40cff::t_e8b5616cce85e7 1-6
+upcoming-release-notes/protect-local-import-destinations.md
+  s_3b573df4c40cff::t_3a440c768d18c4 1-6
+upcoming-release-notes/prune-lage-cache-in-ci.md
+  s_3b573df4c40cff::t_05a590f102f2d4 6
+upcoming-release-notes/remove-flatpak-release-asset.md
+  s_3b573df4c40cff::t_34b41c2004ae39 2,6
+upcoming-release-notes/report-interval-click-through.md
+  s_3b573df4c40cff::t_50865fffe4bc76 3,6
+upcoming-release-notes/require-admin-enablebanking-configuration.md
+  s_3b573df4c40cff::t_bc5d617e8a9f92 1-6
+upcoming-release-notes/resize-cash-flow-summary-cards.md
+  s_3b573df4c40cff::t_181e5bb6e94e72 1-6
+upcoming-release-notes/restrict-desktop-navigation.md
+  s_3b573df4c40cff::t_bcc8bf6b947d52 3,6
+upcoming-release-notes/restrict-external-links.md
+  s_3b573df4c40cff::t_1904e009939161 1-6
+upcoming-release-notes/restrict-ssrf-address-ranges.md
+  s_3b573df4c40cff::t_5b69d0aa7d70ca 1-6
+upcoming-release-notes/revoke-sessions-on-password-change.md
+  s_3b573df4c40cff::t_cc42c2823277d5 1-6
+upcoming-release-notes/revoke-sessions-on-sign-out.md
+  s_3b573df4c40cff::t_35e4e930325319 1-6
+upcoming-release-notes/rule-formula-amount-units.md
+  s_3b573df4c40cff::t_756ac6c4312003 1-6
+upcoming-release-notes/rules-invalid-regex-preview.md
+  s_3b573df4c40cff::t_cd424258e5baf2 1-6
+upcoming-release-notes/rules-payee-is-nothing.md
+  s_3b573df4c40cff::t_0bbde977b23ae1 1-6
+upcoming-release-notes/settings-grouped-rows.md
+  s_3b573df4c40cff::t_b68643c94e8764 6
+upcoming-release-notes/settings-page-navigation.md
+  s_3b573df4c40cff::t_379763825fbcda 3,6
+upcoming-release-notes/show-commit-hash-on-edge-builds.md
+  s_3b573df4c40cff::t_952f8efab07d3c 1-6
+upcoming-release-notes/simplify-new-sidebar-budget-name.md
+  s_3b573df4c40cff::t_4806b0f88854f9 1-6
+upcoming-release-notes/smooth-report-card-resizing.md
+  s_3b573df4c40cff::t_802f969854e94f 1-6
+upcoming-release-notes/split-custom-reports-by-tags.md
+  s_3b573df4c40cff::t_56784e82c426ad 3,6
+upcoming-release-notes/stabilize-e2e-timing.md
+  s_3b573df4c40cff::t_f0f6437bd11a66 1-6
+upcoming-release-notes/stacked-bar-tooltip-truncation-indicator.md
+  s_3b573df4c40cff::t_78397bed2fcded 1-6
+upcoming-release-notes/strip-publish-config.md
+  s_3b573df4c40cff::t_770eb5300773dc 1-6
+upcoming-release-notes/tag-report-calculations.md
+  s_3b573df4c40cff::t_57bc8ac92fbd1d 1-6
+upcoming-release-notes/tour-to-budget-displayed-month.md
+  s_3b573df4c40cff::t_6a3659b56783bc 1-6
+upcoming-release-notes/use-chf-swiss-franc-symbol.md
+  s_3b573df4c40cff::t_b41bb277db8dbb 1-6
+upcoming-release-notes/validate-server-password-input.md
+  s_3b573df4c40cff::t_0747e9d2cf24fd 1-6
+upcoming-release-notes/verify-current-server-password.md
+  s_3b573df4c40cff::t_bdf5226221b06c 1-6
+upcoming-release-notes/ynab4-budget-notes.md
+  s_3b573df4c40cff::t_9d0946312470e6 6
+yarn.lock
+  s_3b573df4c40cff::t_9d44f6dd167fb2 36,38,40-41,43,56,65,70,72-74,85,87-91,95-96,98,100-104,106-107,109-110,123,125,129,134-135,137,139,141-143,145,150,155-156,158,160,168-169,172-175,186,191,195,197,203-204,207,212-213,215-217,240,242-244,246-249,252-253,255-261,263,266,271,274,277-278,280-282,286-288,291-293,295,299,304,307-309,312-315,572-574,576-581,585-587,589,592-593,608-610,612,614,625-628,655-657,659-663,665-666,673-675,692-694,696-699,702,728-730,732,735-737,793-796,892-895,906-909,948-950,953-954,969-971,973,976,1931-1934,1975-1977,1979-1982,1984-1986,2000-2002,2004-2006,2028-2031,2035-2037,2039-2040,2042,2048,2052-2054,2056,2059,2063-2087,2090,2131-2133,2135-2136,2156-2158,2161,2165-2166,2194-2196,2199,2205,2231-2233,2236-2243,2259-2261,2267,2302-2305,2319-2321,2323-2325,2342-2344,2346-2347,2349-2351,2364-2366,2368-2369,2373-2375,2381,2392-2395,3610,3665-3667,3694,4412-4414,4417,4437-4439,4443,4447-4449,4455,4504-4507,4511-4514,4629-4631,4634,4638-4640,4643,4647-4649,4652,4779-4782,4786-4789,4793-4809,4812,4862-4871,4909,4916,4995-5013,5028-5030,5033,5530-5532,5544-5546,5558-5560,5572-5574,5586-5588,5600-5602,5614-5616,5628-5630,5642-5644,5656-5658,5670-5672,5684-5686,5698-5700,5712-5714,5726-5728,5740-5742,5765-5767,5779-5781,5793-5795,5800-5803,5814-5817,5821-5823,5828-5837,5842-5851,5856-5865,5870-5879,5884-5886,5891-5893,5898-5914,5919-5928,5933-5949,5954-5963,5968-5977,5982-5991,5996-5998,6003-6019,6024-6026,6031-6040,6049-6069,6074-6076,6081-6090,6095-6097,6102-6104,6109-6111,6116-6118,6123-6125,6130-6132,6137-6139,6144-6146,6151-6153,6158-6160,6165-6167,6172-6174,6179-6181,6186-6188,6193-6195,6200-6202,6207-6209,6214-6216,6221-6223,6228-6230,6235-6237,6242-6244,6249-6251,6256-6258,6263-6265,6270-6272,6277-6279,6284-6286,6291-6293,6298-6300,6305-6307,6312-6314,6319-6321,6326-6328,6333-6335,6340-6342,6347-6349,6354-6356,6361-6363,6368-6370,6375-6377,6382-6384,6389-6391,6396-6399,6403-6406,6785-6787,6789-6791,7244-7246,7249,7253-7255,7271,7275-7278,7282-7285,7289-7292,7296-7298,7303-7305,7310-7312,7317-7319,7324-7326,7331-7333,7338-7340,7345-7347,7352-7354,7359-7361,7366-7368,7373-7375,7380-7382,7387-7389,7391,7405,7793-7795,7800-7801,7805-7807,7811,7815,7818,7822,7826-7828,7832,7834,7855-7857,7863,7869,7873-7875,7879-7880,7882,7889,7895,7899-7901,7904,7912,7921,8140-8143,8147-8149,8151,8154,8158-8160,8170,8174,8188-8210,8224,8228-8230,8233,8315-8317,8320,8999-9001,9004,9081-9083,9085-9086,9122-9124,9127,9338-9340,9342-9343,9347,9351-9353,9355-9357,9361-9363,9366,9370-9373,9377-9379,9381-9384,9392,9396-9398,9401-9403,9407,9411-9413,9415,9417,9513-9515,9532,9536-9538,9544,9554,9607-9609,9615,9622-9624,9641-9643,9646,9648,9650,9657,9679-9682,9963,9967-9968,9972-9974,9977-9980,9983,9990,10278-10280,10283-10284,10287,10545-10546,10549,10552,10780-10782,10784,10786,10790-10792,10795,10856-10858,10861,10863-10864,10866-10869,10874-10875,10885,10889,10959-10960,10964,10969-10970,10973,10977-10979,10982,11323-11335,11429,11456-11459,11642-11644,11651-11655,11667,12148-12149,12154,12159,12235-12238,12251-12258,12423-12432,12523,12871-12874,12878-12881,13284-13286,13289-13290,13580,13583,13586,13757,13759-13760,13762-13763,13855-13856,13862,14034-14036,14044,14321,14360-14362,14370,14629,14631-14632,14636-14638,14640-14641,14645-14648,14652-14654,14656-14657,14660,14711-14713,14715,14718-14719,14723-14725,14730,14732,14747,14754,14764,15039-15041,15047,15102-15104,15107-15109,15125-15126,15132,15134,15175-15177,15180,15247-15249,15333-15335,15337-15338,15448-15450,15452-15455,15468-15478,15525,15545-15547,15550,15553,15794-15797,15873-15875,15878,16245-16247,16249,16259,16371-16379,16590-16603,16632-16634,16636-16637,16682-16685,16775-16777,16788,16956-16958,16962,16993-16995,16998,17016-17018,17024,17047-17049,17052,17103-17104,17107,17264-17266,17277-17280,17934-17936,17938-17939,17941-17942,18002-18003,18010,18058-18071,18073-18074,18076-18077,18079,18081,18083,18086-18088,18091,18094,18098,18277,18286-18294,18332-18334,18336-18337,18339-18342,18345-18347,18351,18362-18364,18374,18449-18451,18456-18458,18463-18465,18470-18472,18477-18479,18484-18486,18491-18493,18498-18500,18505-18507,18512-18514,18519-18521,18526-18528,18531-18541,18565,18829-18832,18877,18886-18888,18891,20077-20079,20081-20082,20115,20242,20245,20306-20308,20311,20447-20449,20452,20757-20760,20991-21014,21054-21080,21120-21215,21258-21259,21266,21270-21272,21274-21279,21294-21323,21371,21423-21425,21428,21531-21534,21819-21820,21827-21828,21873,21963-21965,21969,21977,21981,22820-22822,22824,22826-22827,22900-22902,22904-22906,22908,23047-23049,23053,23141-23160,23242,23297-23299,23301-23303,23306-23308,23312,23316-23318,23320-23323,23327,23332,23397-23399,23401,23403-23404,23421-23423,23425,23427-23430,23441-23443,23449,23454,23484-23486,23488-23489,23502,23659-23661,23668,23720-23722,23724,23732,23763-23765,23767-23770,23775,23814-23817,23933-23935,23952,24553-24572,24575,24607,24611-24613,24616-24618,24629,24877-24879,24890,24917-24920,25294-25296,25335,25498-25501,25570-25573,25601,25608-25611,25755-25758,25772-25774,25779-25780,25788,25792,25806,25885-25894,26021,26179-26181,26186,26509-26512,26516-26519,26533-26536,26647-26649,26652,26656-26658,26661,26851-26853,26855,26858,27026-27029,27083-27093,27475-27477,27480,27524-27530,27676-27678,27686,27693,27697-27699,27702-27705,27709,27750,27754-27756,27759-27760,27763-27764,27766-27768,27770,27775-27776,27778-27780,27811,27829-27831,27834,28118-28120,28122-28123,28125,28223-28225,28228,28549-28551,28560,28681-28683,28686,28751-28753,28758,28761,28789-28792
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "91064b6a335e8f548b505e70f79426bc90885807",
+  "prompts": {},
+  "sessions": {
+    "s_3b573df4c40cff": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "127e653d-3553-4ab1-9796-8851bb0e4815",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "zannis <zkalampoukis@gmail.com>"
+    },
+    "s_fabaf9f69a8d46": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "054c295e-8c85-49ec-a73e-0681d4677f87",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "zannis <zkalampoukis@gmail.com>"
+    }
+  }
+}
